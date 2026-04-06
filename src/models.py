@@ -1,0 +1,62 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+# ── OpenAI ────────────────────────────────────────────────────────────────────
+def query_openai(prompt: str) -> str:
+    from openai import OpenAI
+    client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=300,
+        temperature=0
+    )
+    return response.choices[0].message.content.strip()
+
+
+# ── Groq / Llama ──────────────────────────────────────────────────────────────
+def query_groq(prompt: str) -> str:
+    from groq import Groq
+    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    response = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=300,
+        temperature=0
+    )
+    return response.choices[0].message.content.strip()
+
+
+# ── Gemini ────────────────────────────────────────────────────────────────────
+def query_gemini(prompt: str) -> str:
+    from google import genai
+    client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
+    response = client.models.generate_content(
+        model="gemini-2.5-flash-lite",
+        contents=prompt
+    )
+    return response.text.strip()
+
+
+# ── Mistral ───────────────────────────────────────────────────────────────────
+def query_mistral(prompt: str) -> str:
+    from mistralai import Mistral
+    client = Mistral(api_key=os.getenv("MISTRAL_API_KEY"))
+    response = client.chat.complete(
+        model="mistral-small-latest",
+        messages=[{"role": "user", "content": prompt}],
+        max_tokens=300,
+        temperature=0
+    )
+    return response.choices[0].message.content.strip()
+
+
+# ── Model registry ────────────────────────────────────────────────────────────
+MODELS = {
+    "gpt-4o-mini": query_openai,
+    "llama-3.1":   query_groq,
+    "gemini-2.5-flash-lite": query_gemini,
+    "mistral-small": query_mistral,
+}
