@@ -41,18 +41,20 @@ def detect_hallucinations(results_file: str, limit: int = None):
         time.sleep(0.5)
 
         # 3. Agreement-based final verdict
-        # Both INCORRECT → HALLUCINATION
-        # Judge INCORRECT + Wiki UNCERTAIN → HALLUCINATION
-        # At least one CORRECT → CORRECT
-        judge_wrong   = judge_result["judge_verdict"] == "INCORRECT"
-        wiki_wrong    = wiki_result["wiki_verdict"] == "INCORRECT"
-        wiki_uncertain = wiki_result["wiki_verdict"] == "UNCERTAIN"
+        # Logic:
+        # - Judge INCORRECT → HALLUCINATION (unless wiki explicitly says CORRECT)
+        # - Judge CORRECT + Wiki INCORRECT → HALLUCINATION
+        # - Judge CORRECT + Wiki CORRECT/UNCERTAIN → CORRECT
+        judge_wrong = judge_result["judge_verdict"] == "INCORRECT"
+        wiki_wrong  = wiki_result["wiki_verdict"] == "INCORRECT"
+        wiki_correct = wiki_result["wiki_verdict"] == "CORRECT"
 
-        if judge_wrong and wiki_wrong:
+        if judge_wrong and wiki_correct:
+            # Wiki overrides judge — trust wiki
+            final_verdict = "CORRECT"
+        elif judge_wrong:
             final_verdict = "HALLUCINATION"
-        elif judge_wrong and wiki_uncertain:
-            final_verdict = "HALLUCINATION"
-        elif judge_wrong and not wiki_wrong and not wiki_uncertain:
+        elif wiki_wrong:
             final_verdict = "HALLUCINATION"
         else:
             final_verdict = "CORRECT"
