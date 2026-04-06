@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "tr_hist_001",
+    "category": "turkish_history",
+    "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+    "correct_answer": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_002",
+    "category": "turkish_history",
+    "question": "Kurtuluş Savaşı'nda Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesi hangisidir?",
+    "correct_answer": "Başkomutanlık Meydan Muharebesi (26-30 Ağustos 1922), Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesidir.",
+    "source": "https://tr.wikipedia.org/wiki/Ba%C5%9Fkomutanl%C4%B1k_Meydan_Muharebesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_003",
+    "category": "turkish_history",
+    "question": "Osmanlı Devleti hangi yılda kurulmuştur?",
+    "correct_answer": "Osmanlı Devleti, Osman Gazi önderliğinde 1299 yılında kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_004",
+    "category": "turkish_history",
+    "question": "İstanbul'u fetheden Osmanlı padişahı kimdir ve fetih hangi yılda gerçekleşmiştir?",
+    "correct_answer": "İstanbul, Fatih Sultan Mehmed tarafından 29 Mayıs 1453 yılında fethedilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul%27un_fethi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_005",
+    "category": "turkish_history",
+    "question": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+    "correct_answer": "Türkiye Büyük Millet Meclisi 23 Nisan 1920 tarihinde Ankara'da açılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_006",
+    "category": "turkish_history",
+    "question": "Türk alfabesinin kabulü hangi yılda gerçekleşmiştir?",
+    "correct_answer": "Yeni Türk alfabesi (Latin alfabesine dayalı) 1 Kasım 1928 tarihinde TBMM tarafından kabul edilerek yürürlüğe girmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_007",
+    "category": "turkish_history",
+    "question": "Çanakkale Savaşı hangi yıllar arasında sürmüştür?",
+    "correct_answer": "Çanakkale Savaşı, 18 Mart 1915 ile 9 Ocak 1916 tarihleri arasında sürmüştür.",
+    "source": "https://tr.wikipedia.org/wiki/%C3%87anakkale_Sava%C5%9F%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_008",
+    "category": "turkish_history",
+    "question": "Lozan Antlaşması hangi yılda imzalanmıştır ve Türkiye adına kim imzalamıştır?",
+    "correct_answer": "Lozan Antlaşması 24 Temmuz 1923 tarihinde imzalanmıştır; Türkiye adına İsmet İnönü başkanlığındaki heyet antlaşmayı imzalamıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Lozan_Antla%C5%9Fmas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_009",
+    "category": "turkish_history",
+    "question": "Atatürk hangi tarihte vefat etmiştir?",
+    "correct_answer": "Mustafa Kemal Atatürk 10 Kasım 1938 tarihinde İstanbul Dolmabahçe Sarayı'nda vefat etmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_010",
+    "category": "turkish_history",
+    "question": "Türkiye'de kadınlara milletvekili seçilme hakkı hangi yılda tanınmıştır?",
+    "correct_answer": "Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı 5 Aralık 1934 yılında tanınmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_kad%C4%B1n_haklar%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_011",
+    "category": "turkish_history",
+    "question": "Osmanlı İmparatorluğu'nda Tanzimat Fermanı hangi yılda ilan edilmiştir?",
+    "correct_answer": "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu) 3 Kasım 1839 yılında ilan edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Tanzimat_Ferman%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_012",
+    "category": "turkish_history",
+    "question": "Birinci Dünya Savaşı'nda Osmanlı Devleti hangi ittifakın yanında yer almıştır?",
+    "correct_answer": "Birinci Dünya Savaşı'nda Osmanlı Devleti, Almanya ve Avusturya-Macaristan'ın başını çektiği İttifak Devletleri (Üçlü İttifak) yanında yer almıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu%27nun_Birinci_D%C3%BCnya_Sava%C5%9F%C4%B1%27na_giri%C5%9Fi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_013",
+    "category": "turkish_history",
+    "question": "Türkiye'de çok partili sisteme geçiş hangi yılda gerçekleşmiş ve ilk iktidar değişikliği hangi seçimde yaşanmıştır?",
+    "correct_answer": "Türkiye'de çok partili siyasi hayata 1946'da geçilmiş; ilk iktidar değişikliği ise 14 Mayıs 1950 seçimlerinde Demokrat Parti'nin galip gelmesiyle yaşanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/1950_T%C3%BCrkiye_genel_se%C3%A7imleri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_014",
+    "category": "turkish_history",
+    "question": "Osmanlı İmparatorluğu'nun Avrupa'daki yayılmasını durduran ve geri çekilmesinin başlangıcı olarak kabul edilen Viyana kuşatması hangi yılda gerçekleşmiştir?",
+    "correct_answer": "İkinci Viyana Kuşatması 1683 yılında gerçekleşmiş ve kuşatmanın başarısızlıkla sonuçlanması Osmanlı'nın Avrupa'daki geri çekilme sürecinin başlangıcı olarak kabul edilmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/II._Viyana_Ku%C5%9fatmas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_015",
+    "category": "turkish_history",
+    "question": "Göktürk Kağanlığı hangi yılda kurulmuştur?",
+    "correct_answer": "Birinci Göktürk Kağanlığı 552 yılında Bumin Kağan önderliğinde kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_016",
+    "category": "turkish_history",
+    "question": "Türkiye'de saltanatın kaldırıldığı tarih nedir?",
+    "correct_answer": "Türkiye'de saltanat 1 Kasım 1922 tarihinde TBMM kararıyla kaldırılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Saltanat%C4%B1n_kald%C4%B1r%C4%B1lmas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_017",
+    "category": "turkish_history",
+    "question": "Türkiye'de halifeliğin kaldırıldığı yıl nedir?",
+    "correct_answer": "Halifelik 3 Mart 1924 tarihinde TBMM kararıyla kaldırılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Hilafetin_kald%C4%B1r%C4%B1lmas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_018",
+    "category": "turkish_history",
+    "question": "Malazgirt Muharebesi hangi yılda gerçekleşmiş ve Türklerin Anadolu'ya yerleşmesinde ne gibi bir önemi vardır?",
+    "correct_answer": "Malazgirt Muharebesi 26 Ağustos 1071 yılında Büyük Selçuklu Sultanı Alparslan ile Bizans İmparatoru Romanos IV arasında gerçekleşmiştir. Bu zafer, Türklerin Anadolu'ya kalıcı olarak yerleşmesinin önünü açmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Malazgirt_Muharebesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_019",
+    "category": "turkish_history",
+    "question": "Türkiye NATO'ya hangi yılda üye olmuştur?",
+    "correct_answer": "Türkiye, NATO'ya 18 Şubat 1952 tarihinde Yunanistan ile birlikte üye olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_NATO_%C3%BCyeli%C4%9Fi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_020",
+    "category": "turkish_history",
+    "question": "İstiklal Marşı hangi tarihte kabul edilmiştir?",
+    "correct_answer": "İstiklal Marşı, Mehmet Akif Ersoy tarafından yazılmış ve 12 Mart 1921 tarihinde TBMM tarafından Türkiye'nin ulusal marşı olarak kabul edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0stiklal_Mar%C5%9F%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_021",
+    "category": "turkish_history",
+    "question": "Türkiye'de ilk nüfus sayımı hangi yılda yapılmıştır ve bulunan nüfus ne kadardır?",
+    "correct_answer": "Türkiye'de ilk nüfus sayımı 28 Ekim 1927 yılında yapılmış ve nüfus 13 milyon 648 bin olarak tespit edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_n%C3%BCfus_say%C4%B1mlar%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_022",
+    "category": "turkish_history",
+    "question": "Osmanlı İmparatorluğu'nda ilk anayasa (Kanun-i Esasi) hangi yılda ilan edilmiştir?",
+    "correct_answer": "Osmanlı İmparatorluğu'nun ilk anayasası olan Kanun-i Esasi, 23 Aralık 1876 yılında II. Abdülhamid döneminde ilan edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Kanun-i_Esas%C3%AE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_023",
+    "category": "turkish_history",
+    "question": "Türkiye'de 27 Mayıs 1960'ta ne olmuştur?",
+    "correct_answer": "27 Mayıs 1960'ta Türk Silahlı Kuvvetleri bir askeri darbe gerçekleştirerek Demokrat Parti iktidarına son vermiş ve Başbakan Adnan Menderes dahil pek çok ismi gözaltına almıştır.",
+    "source": "https://tr.wikipedia.org/wiki/27_May%C4%B1s_darbesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_024",
+    "category": "turkish_history",
+    "question": "Misak-ı Millî hangi tarihte kabul edilmiştir?",
+    "correct_answer": "Misak-ı Millî (Ulusal Ant) 28 Ocak 1920 tarihinde son Osmanlı Mebusan Meclisi tarafından kabul edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Misak-%C4%B1_Mill%C3%AE",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_025",
+    "category": "turkish_history",
+    "question": "Anadolu Selçuklu Devleti'nin başkenti neresidir?",
+    "correct_answer": "Anadolu Selçuklu Devleti'nin başkenti Konya'dır.",
+    "source": "https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_026",
+    "category": "turkish_history",
+    "question": "Türkiye'de laikliğin anayasaya girdiği yıl nedir?",
+    "correct_answer": "Laiklik ilkesi, 5 Şubat 1937 tarihinde yapılan anayasa değişikliğiyle Türkiye Cumhuriyeti Anayasası'na girmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_laiklik",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_027",
+    "category": "turkish_history",
+    "question": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahı kimdir?",
+    "correct_answer": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahı yaklaşık 46 yıl hüküm süren II. Abdülhamid'dir.",
+    "source": "https://tr.wikipedia.org/wiki/II._Abdülhamid",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_028",
+    "category": "turkish_history",
+    "question": "Kurtuluş Savaşı'nın başlangıcı olarak kabul edilen Mustafa Kemal'in Samsun'a çıkış tarihi nedir?",
+    "correct_answer": "Mustafa Kemal Paşa, Kurtuluş Savaşı'nın başlangıcı kabul edilen 19 Mayıs 1919'da Samsun'a çıkmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Atatürk%27ün_Samsun%27a_%C3%A7%C4%B1k%C4%B1%C5%9F%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_029",
+    "category": "turkish_history",
+    "question": "Türkiye'de Soyadı Kanunu hangi yılda çıkarılmıştır?",
+    "correct_answer": "Soyadı Kanunu 21 Haziran 1934 tarihinde çıkarılmış; Mustafa Kemal'e ise TBMM tarafından 'Atatürk' soyadı verilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Soyadı_Kanunu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_030",
+    "category": "turkish_history",
+    "question": "Osmanlı İmparatorluğu kaç yıl sürmüştür?",
+    "correct_answer": "Osmanlı İmparatorluğu 1299'da kurulup 1922'de saltanatın kaldırılmasıyla sona ermiş, yaklaşık 623 yıl sürmüştür.",
+    "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_031",
+    "category": "turkish_history",
+    "question": "Türkiye'de ilk demiryolu hattı nerede ve ne zaman işletmeye açılmıştır?",
+    "correct_answer": "Türkiye'deki ilk demiryolu hattı 1866 yılında İzmir-Aydın arasında işletmeye açılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_demiryolları",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_032",
+    "category": "turkish_history",
+    "question": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
+    "correct_answer": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı Mustafa Kemal Atatürk'tür.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_cumhurba%C5%9Fkanlar%C4%B1_listesi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_hist_033",
+    "category": "turkish_history",
+    "question": "Türkiye'de ölçü ve tartı sisteminin metrik sisteme dönüştürüldüğü yıl nedir?",
+    "correct_answer": "Türkiye'de metrik sistem 1931 yılında resmi olarak yürürlüğe girmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Metrik_sistem",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_hist_034",
+    "category": "turkish_history",
+    "question": "Türkiye Cumhuriyeti'nin ilk başbakanı kimdir?",
+    "correct_answer": "Türkiye Cumhuriyeti'nin ilk başbakanı İsmet İnönü'dür; 30 Ekim 1923'te bu göreve atanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_ba%C5%9Fbakanlar%C4%B1_listesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_hist_035",
+    "category": "turkish_history",
+    "question": "Osmanlı Devleti'nde Lale Devri hangi yıllar arasında sürmüştür ve bu dönemin öne çıkan özelliği nedir?",
+    "correct_answer": "Lale Devri 1718-1730 yılları arasında III. Ahmet döneminde yaşanmıştır. Bu dönem, Batı tarzı etkilerinin Osmanlı sanat ve mimarisine girdiği, görece barış ve kültürel canlılıkla öne çıkan bir dönemdir.",
+    "source": "https://tr.wikipedia.org/wiki/Lale_Devri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_001",
+    "category": "geography",
+    "question": "Türkiye'nin en uzun nehri hangisidir?",
+    "correct_answer": "Türkiye'nin en uzun nehri 1.355 km uzunluğuyla Kızılırmak Nehri'dir.",
+    "source": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak_Nehri",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_002",
+    "category": "geography",
+    "question": "Türkiye'nin yüzölçümü bakımından en büyük gölü hangisidir?",
+    "correct_answer": "Türkiye'nin yüzölçümü bakımından en büyük gölü 3.713 km² ile Van Gölü'dür.",
+    "source": "https://tr.wikipedia.org/wiki/Van_G%C3%B6l%C3%BC",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_003",
+    "category": "geography",
+    "question": "Türkiye'nin en yüksek dağı hangisidir ve yüksekliği kaç metredir?",
+    "correct_answer": "Türkiye'nin en yüksek dağı 5.137 metre yüksekliğiyle Ağrı Dağı'dır.",
+    "source": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_004",
+    "category": "geography",
+    "question": "Türkiye kaç coğrafi bölgeye ayrılmıştır ve bu bölgeler hangi kongrede belirlenmiştir?",
+    "correct_answer": "Türkiye, 6-21 Haziran 1941 tarihinde gerçekleştirilen Birinci Coğrafya Kongresi'nde 7 coğrafi bölgeye ayrılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_b%C3%B6lgeleri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_005",
+    "category": "geography",
+    "question": "Türkiye'nin toplam yüzölçümü kaç km²'dir?",
+    "correct_answer": "Türkiye'nin göller ve adalar dahil gerçek yüzölçümü 814.578 km²'dir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_006",
+    "category": "geography",
+    "question": "Türkiye'nin en büyük yapay gölü hangisidir?",
+    "correct_answer": "Türkiye'nin en büyük yapay gölü 817 km² alan kaplayan Atatürk Baraj Gölü'dür.",
+    "source": "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Baraj%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_007",
+    "category": "geography",
+    "question": "Türkiye'nin en büyük adası hangisidir?",
+    "correct_answer": "Türkiye'nin en büyük adası 279 km² yüzölçümüyle Gökçeada'dır.",
+    "source": "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eada",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_008",
+    "category": "geography",
+    "question": "Türkiye'nin ortalama yüksekliği kaç metredir?",
+    "correct_answer": "Türkiye'nin ortalama yüksekliği 1.141 metredir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_009",
+    "category": "geography",
+    "question": "Türkiye'nin en kuzey noktası neresidir?",
+    "correct_answer": "Türkiye'nin en kuzey noktası Sinop iline bağlı İnceburun'dur.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0nceburun",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_010",
+    "category": "geography",
+    "question": "Türkiye'nin en batı noktası neresidir?",
+    "correct_answer": "Türkiye'nin en batı noktası Çanakkale iline bağlı Gökçeada'dır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_s%C4%B1n%C4%B1rlar%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_011",
+    "category": "geography",
+    "question": "Fırat ve Dicle nehirleri Türkiye'nin hangi bölgesinden kaynaklanmaktadır?",
+    "correct_answer": "Fırat ve Dicle nehirleri Türkiye'nin Doğu Anadolu Bölgesi'ndeki dağlık yaylalardan kaynaklanmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/F%C4%B1rat_Nehri",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_012",
+    "category": "geography",
+    "question": "Türkiye'de İç Anadolu Bölgesi'nin en büyük ovası hangisidir?",
+    "correct_answer": "İç Anadolu Bölgesi'nin en büyük ovası Konya Ovası'dır.",
+    "source": "https://tr.wikipedia.org/wiki/Konya_Ovas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_013",
+    "category": "geography",
+    "question": "Türkiye ile hangi ülkeler arasında İstanbul ve Çanakkale boğazları bulunmaktadır ve bu boğazlar hangi denizleri birbirine bağlar?",
+    "correct_answer": "İstanbul Boğazı ve Çanakkale Boğazı, Türkiye toprakları üzerinde yer alır. İstanbul Boğazı Karadeniz ile Marmara Denizi'ni, Çanakkale Boğazı ise Marmara Denizi ile Ege Denizi'ni birbirine bağlar.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_bo%C4%9Fazlar%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_014",
+    "category": "geography",
+    "question": "Türkiye'nin Avrupa kıtasındaki toprakları hangi isimle anılır ve ülke topraklarının yüzde kaçını oluşturur?",
+    "correct_answer": "Türkiye'nin Avrupa kıtasındaki toprakları Trakya olarak anılır ve ülke topraklarının yaklaşık %3'ünü oluşturur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_015",
+    "category": "geography",
+    "question": "GAP (Güneydoğu Anadolu Projesi) hangi nehirler üzerinde kurulmuştur?",
+    "correct_answer": "GAP, başta Fırat ve Dicle nehirleri olmak üzere bu nehirlerin kolları üzerinde inşa edilen baraj ve sulama tesislerinden oluşmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/G%C3%BCney_Do%C4%9Fu_Anadolu_Projesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_016",
+    "category": "geography",
+    "question": "Türkiye'nin ikinci büyük gölü hangisidir?",
+    "correct_answer": "Türkiye'nin ikinci büyük gölü Tuz Gölü'dür.",
+    "source": "https://tr.wikipedia.org/wiki/Tuz_G%C3%B6l%C3%BC",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_017",
+    "category": "geography",
+    "question": "Türkiye'de en fazla deprem hangi fay hattı boyunca gerçekleşmektedir?",
+    "correct_answer": "Türkiye'de depremlerin büyük çoğunluğu Kuzey Anadolu Fay Hattı boyunca gerçekleşmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Kuzey_Anadolu_Fay%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_018",
+    "category": "geography",
+    "question": "Türkiye'nin nüfus yoğunluğu en fazla olan coğrafi bölgesi hangisidir?",
+    "correct_answer": "Türkiye'nin nüfus yoğunluğu en fazla olan coğrafi bölgesi Marmara Bölgesi'dir; İstanbul bu yoğunluğa önemli katkı sağlar.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_019",
+    "category": "geography",
+    "question": "Türkiye'nin en doğu noktası hangi ile bağlıdır?",
+    "correct_answer": "Türkiye'nin en doğu noktası Iğdır iline bağlı Aralık ilçesinde yer almaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_s%C4%B1n%C4%B1rlar%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_020",
+    "category": "geography",
+    "question": "Türkiye'nin en uzun kıyı şeridine sahip denizi hangisidir?",
+    "correct_answer": "Türkiye'nin en uzun kıyı şeridine sahip denizi Karadeniz'dir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_021",
+    "category": "geography",
+    "question": "Türkiye'nin Akdeniz kıyısındaki en büyük ovası hangisidir?",
+    "correct_answer": "Türkiye'nin Akdeniz kıyısındaki en büyük ovası Çukurova'dır; Adana ili merkezinde yer alır.",
+    "source": "https://tr.wikipedia.org/wiki/%C3%87ukurova",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_022",
+    "category": "geography",
+    "question": "Erciyes Dağı hangi ilde bulunur ve yüksekliği kaç metredir?",
+    "correct_answer": "Erciyes Dağı Kayseri ilinde bulunur ve 3.917 metre yüksekliğiyle İç Anadolu'nun en yüksek dağıdır.",
+    "source": "https://tr.wikipedia.org/wiki/Erciyes_Da%C4%9F%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_023",
+    "category": "geography",
+    "question": "Türkiye kaç komşu ülkeyle kara sınırı paylaşmaktadır ve bu ülkeler hangileridir?",
+    "correct_answer": "Türkiye sekiz ülkeyle kara sınırı paylaşmaktadır: Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_024",
+    "category": "geography",
+    "question": "Kaçkar Dağları hangi bölgede yer alır ve en yüksek zirvesi kaç metredir?",
+    "correct_answer": "Kaçkar Dağları Karadeniz Bölgesi'nde Rize ve Artvin illeri sınırında yer alır; en yüksek zirvesi 3.937 metre olan Kaçkar Zirvesi'dir.",
+    "source": "https://tr.wikipedia.org/wiki/Ka%C3%A7kar_Da%C4%9Flar%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_025",
+    "category": "geography",
+    "question": "Türkiye'de hangi göl tuzluluk oranıyla dikkat çeker ve tuzun büyük bölümü bu gölden mi karşılanır?",
+    "correct_answer": "Tuz Gölü, yüksek tuzluluk oranıyla öne çıkar. Türkiye'nin tuz ihtiyacının önemli bir bölümü bu gölden karşılanmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/Tuz_G%C3%B6l%C3%BC",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_026",
+    "category": "geography",
+    "question": "Asi Nehri'nin diğer Türkiye nehirlerinden farklı olan özelliği nedir?",
+    "correct_answer": "Asi Nehri, güneyden kuzeye doğru akarak Akdeniz'e dökülür; bu akış yönüyle Türkiye'deki diğer nehirlerden farklılaşır.",
+    "source": "https://tr.wikipedia.org/wiki/Asi_Nehri",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_027",
+    "category": "geography",
+    "question": "Türkiye'nin yüzölçümü bakımından en küçük coğrafi bölgesi hangisidir?",
+    "correct_answer": "Türkiye'nin yüzölçümü bakımından en küçük coğrafi bölgesi Marmara Bölgesi'dir.",
+    "source": "https://tr.wikipedia.org/wiki/Marmara_B%C3%B6lgesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_geo_028",
+    "category": "geography",
+    "question": "Türkiye'de en yüksek dağlık bölge hangisidir?",
+    "correct_answer": "Türkiye'nin en yüksek ve en dağlık bölgesi Doğu Anadolu Bölgesi'dir.",
+    "source": "https://tr.wikipedia.org/wiki/Do%C4%9Fu_Anadolu_B%C3%B6lgesi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_geo_029",
+    "category": "geography",
+    "question": "Beyşehir Gölü hangi bölgede yer alır ve Türkiye'nin kaçıncı büyük gölüdür?",
+    "correct_answer": "Beyşehir Gölü İç Anadolu Bölgesi'nde Konya iline bağlı olarak yer alır ve Türkiye'nin üçüncü büyük gölüdür.",
+    "source": "https://tr.wikipedia.org/wiki/Bey%C5%9Fehir_G%C3%B6l%C3%BC",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_geo_030",
+    "category": "geography",
+    "question": "Türkiye'nin doğusu ile batısı arasında kaç dakikalık yerel saat farkı bulunmaktadır?",
+    "correct_answer": "Türkiye'nin doğusu ile batısı arasında 19 meridyenlik farktan kaynaklanan yaklaşık 76 dakikalık yerel saat farkı bulunmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_001",
+    "category": "science",
+    "question": "Türk matematikçi ve astronom Ali Kuşçu hangi yüzyılda yaşamıştır?",
+    "correct_answer": "Ali Kuşçu 15. yüzyılda (1403-1474) yaşamış bir Türk matematikçi ve astronomdur.",
+    "source": "https://tr.wikipedia.org/wiki/Ali_Ku%C5%9F%C3%A7u",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_002",
+    "category": "science",
+    "question": "Türkiye'nin ilk yerli ve milli otomobili olan TOGG'un tam açılımı nedir?",
+    "correct_answer": "TOGG'un tam açılımı Türkiye'nin Otomobili Girişim Grubu'dur.",
+    "source": "https://tr.wikipedia.org/wiki/Togg",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_003",
+    "category": "science",
+    "question": "Aziz Sancar hangi alandaki çalışmalarıyla Nobel ödülü kazanmıştır ve bu ödülü hangi yılda almıştır?",
+    "correct_answer": "Aziz Sancar, DNA onarım mekanizmaları üzerine yaptığı çalışmalarıyla 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Aziz_Sancar",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_004",
+    "category": "science",
+    "question": "Hulusi Behçet hangi hastalığı tanımlayan ilk bilim insanıdır?",
+    "correct_answer": "Hulusi Behçet, 1937 yılında kan damarlarını etkileyen otoimmün bir hastalık olan ve bugün kendi adıyla anılan Behçet hastalığını ilk kez tanımlayan bilim insanıdır.",
+    "source": "https://tr.wikipedia.org/wiki/Hulusi_Beh%C3%A7et",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_005",
+    "category": "science",
+    "question": "BioNTech'in kurucu ortakları olan Uğur Şahin ve Özlem Türeci hangi ülkede faaliyet göstermektedir?",
+    "correct_answer": "Türk asıllı bilim insanları Uğur Şahin ve Özlem Türeci, Almanya'da kurulu BioNTech şirketinin kurucu ortaklarıdır.",
+    "source": "https://tr.wikipedia.org/wiki/U%C4%9Fur_%C5%9Eahin",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_006",
+    "category": "science",
+    "question": "Hezarfen Ahmet Çelebi hangi tarihi başarısıyla tanınmaktadır?",
+    "correct_answer": "Hezarfen Ahmet Çelebi, 17. yüzyılda geliştirdiği kanat sistemiyle Galata Kulesi'nden Üsküdar'a uçarak tarihe geçmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Hezarfen_Ahmet_%C3%87elebi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_007",
+    "category": "science",
+    "question": "Piri Reis'in dünyaca ünlü haritası hangi yılda çizilmiştir ve önemi nedir?",
+    "correct_answer": "Piri Reis'in en ünlü haritası 1513 yılında çizilmiştir. Amerika kıtasını gösteren en eski haritalardan biri olması nedeniyle büyük tarihsel öneme sahiptir.",
+    "source": "https://tr.wikipedia.org/wiki/Piri_Reis_haritas%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_008",
+    "category": "science",
+    "question": "Daron Acemoğlu hangi alandaki çalışmalarıyla ve hangi yıl Nobel ödülü kazanmıştır?",
+    "correct_answer": "Daron Acemoğlu, kurumların ekonomik gelişim üzerindeki rolünü ortaya koyan çalışmalarıyla 2024 yılında Nobel Ekonomi Ödülü'nü Simon Johnson ve James Robinson ile birlikte kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Daron_Acemo%C4%9Flu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_009",
+    "category": "science",
+    "question": "Türkiye'de TÜBİTAK'ın açılımı nedir ve hangi amaçla kurulmuştur?",
+    "correct_answer": "TÜBİTAK, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu'nun kısaltmasıdır. 1963 yılında Türkiye'de bilimsel ve teknolojik araştırmaları desteklemek amacıyla kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%9CB%C4%B0TAK",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_010",
+    "category": "science",
+    "question": "Cahit Arf'ın matematiğe katkısı olarak bilinen 'Arf Değişmezi' hangi alanda kullanılmaktadır?",
+    "correct_answer": "Cahit Arf tarafından geliştirilen Arf Değişmezi, topoloji alanında düğüm teorisinde ve cebirsel topolojide kullanılan önemli bir matematiksel kavramdır.",
+    "source": "https://tr.wikipedia.org/wiki/Cahit_Arf",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_011",
+    "category": "science",
+    "question": "Türkiye'nin ilk uzay ajansı olan TUA hangi yılda kurulmuştur?",
+    "correct_answer": "Türkiye Uzay Ajansı (TUA) 13 Aralık 2018 tarihinde kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Uzay_Ajans%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_012",
+    "category": "science",
+    "question": "Akşemsettin mikroorganizma konusunda hangi önemli katkıyla tarihe geçmiştir?",
+    "correct_answer": "Akşemsettin (1389-1459), Maddet'ül Hayat adlı eserinde hastalıkların mikroorganizmalar aracılığıyla bulaştığını ilk kez ele alan bilim insanı olarak tarihe geçmiştir; bu yaklaşım Louis Pasteur'ün mikrop teorisinden yüzyıllarca önce ortaya konulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Ak%C5%9Femsettin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_013",
+    "category": "science",
+    "question": "Türkiye'nin ilk yerli savaş uçağı KAAN'ın ilk uçuşu hangi yılda gerçekleşmiştir?",
+    "correct_answer": "KAAN, Türkiye'nin ilk yerli ve milli muharip uçağı olup ilk uçuşunu 21 Şubat 2023 tarihinde gerçekleştirmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/TAI_KAAN",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_014",
+    "category": "science",
+    "question": "Gazi Yaşargil hangi tıbbi başarısıyla 'yüzyılın beyin cerrahı' olarak anılmaktadır?",
+    "correct_answer": "Gazi Yaşargil, beyin cerrahisinde mikroskop kullanımını (mikrocerrahiyi) yaygınlaştırması ve dünyanın ilk beyin bypass ameliyatını gerçekleştirmesiyle 'yüzyılın beyin cerrahı' unvanını almıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Mahmut_Gazi_Ya%C5%9Fargil",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_015",
+    "category": "science",
+    "question": "Türkiye'de Atom Enerjisi Kurumu hangi yılda kurulmuştur?",
+    "correct_answer": "Türkiye Atom Enerjisi Kurumu (TAEK) 1956 yılında kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Atom_Enerjisi_Kurumu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_016",
+    "category": "science",
+    "question": "Orhan Pamuk hangi yıl Nobel Edebiyat Ödülü'nü kazanmıştır?",
+    "correct_answer": "Orhan Pamuk Nobel Edebiyat Ödülü'nü 2006 yılında kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Orhan_Pamuk",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_017",
+    "category": "science",
+    "question": "Türkiye'nin ilk yerli ve milli insansız hava aracı (SİHA) hangisidir ve hangi şirket tarafından üretilmiştir?",
+    "correct_answer": "Türkiye'nin en bilinen yerli silahlı insansız hava aracı Bayraktar TB2'dir; Baykar Makina şirketi tarafından üretilmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Bayraktar_TB2",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_sci_018",
+    "category": "science",
+    "question": "Türkiye'de ilk kalp nakli ameliyatı hangi yılda gerçekleştirilmiştir?",
+    "correct_answer": "Türkiye'de ilk başarılı kalp nakli ameliyatı 1998 yılında gerçekleştirilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Kalp_nakli",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_019",
+    "category": "science",
+    "question": "Türkiye'nin ilk mini uydusu olan BILSAT hangi yılda fırlatılmıştır?",
+    "correct_answer": "Türkiye'nin ilk mini uydusu BILSAT-1, 27 Eylül 2003 tarihinde fırlatılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/BILSAT-1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_020",
+    "category": "science",
+    "question": "Türkiye Cumhuriyeti'nin ilk kadın doktoru kimdir?",
+    "correct_answer": "Türkiye Cumhuriyeti'nin ilk kadın doktoru Safiye Ali'dir; 1894-1952 yılları arasında yaşamış ve Almanya'da tıp eğitimi almıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Safiye_Ali",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_021",
+    "category": "science",
+    "question": "Canan Dağdeviren hangi alanda çalışmalar yapmaktadır?",
+    "correct_answer": "Canan Dağdeviren medikal teknoloji alanında çalışmakta olup pili olmayan giyilebilir kalp sensörü ve cilt kanserini tespit eden cihazlar geliştirmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Canan_Da%C4%9Fdeviren",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_022",
+    "category": "science",
+    "question": "Kuzey Anadolu Fayı'nı inceleyen ve Anadolu levhasının batıya kaydığını ortaya koyan Türk bilim insanı kimdir?",
+    "correct_answer": "Türk jeolog İhsan Ketin, Kuzey Anadolu Fayı'nın yapısını incelemiş ve Anadolu levhasının batıya doğru hareket ettiğini ortaya koymuştur.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0hsan_Ketin",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_023",
+    "category": "science",
+    "question": "Türkiye'nin uzay programı kapsamında Ay'a göndermeyi planladığı ilk görevin adı nedir?",
+    "correct_answer": "Türkiye, 2023 yılında Ulusal Uzay Programı çerçevesinde Ay'a sert iniş yapmayı hedefleyen ilk yerli uzay görevini gerçekleştirmeyi planlamıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Uzay_Ajans%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_sci_024",
+    "category": "science",
+    "question": "Türkiye'nin en büyük nükleer santral projesi hangisidir ve hangi ülkenin iş birliğiyle inşa edilmektedir?",
+    "correct_answer": "Türkiye'nin ilk ve en büyük nükleer santral projesi Mersin Akkuyu Nükleer Güç Santrali'dir; Rusya'nın Rosatom şirketi iş birliğiyle inşa edilmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Akkuyu_N%C3%BCkleer_G%C3%BC%C3%A7_Santrali",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_sci_025",
+    "category": "science",
+    "question": "Türkiye'de kurulan ilk üniversite hangisidir?",
+    "correct_answer": "Türkiye'nin ilk üniversitesi İstanbul Üniversitesi'dir; kökenleri 1453 yılına dayanan bu kurum, modern üniversite statüsünü 1933 reformlarıyla kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_%C3%9Cniversitesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_001",
+    "category": "law",
+    "question": "Türkiye Cumhuriyeti Anayasası kaçıncı maddesiyle devletin resmi dilini Türkçe olarak belirlemektedir?",
+    "correct_answer": "Türkiye Cumhuriyeti Anayasası'nın 3. maddesi devletin resmi dilinin Türkçe olduğunu belirtmektedir.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_002",
+    "category": "law",
+    "question": "Türkiye'de ceza sorumluluğu yaşı kaçtır?",
+    "correct_answer": "Türkiye'de Türk Ceza Kanunu'na göre 12 yaşından küçük çocuklar ceza sorumluluğundan muaftır; 12-18 yaş arası için özel hükümler uygulanır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Ceza_Kanunu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_003",
+    "category": "law",
+    "question": "Türkiye'de yürürlükteki anayasa hangi yılda kabul edilmiştir?",
+    "correct_answer": "Türkiye'de halen yürürlükte olan 1982 Anayasası (2709 sayılı Kanun) 7 Kasım 1982 tarihinde halk oylamasıyla kabul edilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasas%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_004",
+    "category": "law",
+    "question": "Türkiye Anayasası'na göre yasama yetkisi hangi organa aittir?",
+    "correct_answer": "Türkiye Cumhuriyeti Anayasası'nın 7. maddesine göre yasama yetkisi, Türk Milleti adına Türkiye Büyük Millet Meclisi'ne aittir ve bu yetki devredilemez.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_005",
+    "category": "law",
+    "question": "Türkiye Anayasa Mahkemesi hangi yılda kurulmuştur?",
+    "correct_answer": "Türkiye Anayasa Mahkemesi, 1961 Anayasası ile kurulmuş ve 1962 yılında faaliyete geçmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Anayasa_Mahkemesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_006",
+    "category": "law",
+    "question": "Türk Medeni Kanunu hangi yılda yürürlüğe girmiştir ve hangi ülkenin kanunundan esinlenilmiştir?",
+    "correct_answer": "Türk Medeni Kanunu 1926 yılında yürürlüğe girmiş ve büyük ölçüde İsviçre Medeni Kanunu'ndan esinlenerek hazırlanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Medenî_Kanunu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_007",
+    "category": "law",
+    "question": "Türkiye'de bireysel anayasa başvurusu hakkı hangi yıldan itibaren kullanılabilmektedir?",
+    "correct_answer": "Türkiye'de bireysel anayasa başvurusu hakkı 2010 anayasa değişikliğiyle getirilmiş ve 23 Eylül 2012 tarihinden itibaren kullanılmaya başlanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Bireysel_ba%C5%9Fvuru",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_008",
+    "category": "law",
+    "question": "Türkiye'de kaç tür mahkeme sistemi bulunmaktadır ve bunlar nelerdir?",
+    "correct_answer": "Türkiye'de iki temel yargı kolu bulunmaktadır: adli yargı (Yargıtay denetiminde) ve idari yargı (Danıştay denetiminde). Her iki kolda da istinaf ve temyiz olmak üzere iki dereceli kanun yolu mevcuttur.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_yarg%C4%B1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_009",
+    "category": "law",
+    "question": "Türkiye'de Danıştay'ın görevi nedir?",
+    "correct_answer": "Danıştay, Türkiye'de idari yargının en yüksek mahkemesidir; idari uyuşmazlıklara bakar, bazı konularda danışma ve inceleme organı olarak da görev yapar.",
+    "source": "https://tr.wikipedia.org/wiki/Dan%C4%B1%C5%9Ftay",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_010",
+    "category": "law",
+    "question": "Türkiye Cumhuriyeti Anayasası'nın 2. maddesine göre Türkiye nasıl tanımlanmaktadır?",
+    "correct_answer": "Anayasa'nın 2. maddesine göre Türkiye Cumhuriyeti; insan haklarına saygılı, demokratik, laik ve sosyal bir hukuk devletidir.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_011",
+    "category": "law",
+    "question": "Türkiye'de egemenliğin kime ait olduğu Anayasa'nın kaçıncı maddesinde belirtilmektedir?",
+    "correct_answer": "Anayasa'nın 6. maddesine göre egemenlik kayıtsız şartsız milletindir; Türk Milleti egemenliğini Anayasa'nın koyduğu esaslara göre yetkili organları eliyle kullanır.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_012",
+    "category": "law",
+    "question": "Türkiye'de Yargıtay'ın görevi nedir?",
+    "correct_answer": "Yargıtay, Türkiye'de adli yargının en yüksek temyiz mahkemesidir; adli mahkemelerin verdiği kararları hukuka uygunluk açısından denetler.",
+    "source": "https://tr.wikipedia.org/wiki/Yarg%C4%B1tay",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_013",
+    "category": "law",
+    "question": "Türk Ceza Kanunu kaç numaralı kanundur ve hangi yılda yürürlüğe girmiştir?",
+    "correct_answer": "Türk Ceza Kanunu 5237 sayılı kanundur ve 1 Haziran 2005 tarihinde yürürlüğe girmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Ceza_Kanunu",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_014",
+    "category": "law",
+    "question": "Türkiye'de avukatlık mesleğini düzenleyen üst kuruluş hangisidir?",
+    "correct_answer": "Türkiye'de avukatlık mesleğini düzenleyen üst kuruluş Türkiye Barolar Birliği'dir; tüm baroların katılımıyla oluşmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Barolar_Birli%C4%9Fi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_015",
+    "category": "law",
+    "question": "Türkiye'de seçimlerin yönetim ve denetiminden sorumlu kurul hangisidir?",
+    "correct_answer": "Türkiye'de seçimlerin yönetim ve denetiminden Yüksek Seçim Kurulu (YSK) sorumludur; kararları kesin olup itiraz yolu kapalıdır.",
+    "source": "https://tr.wikipedia.org/wiki/Y%C3%BCksek_Se%C3%A7im_Kurulu",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_016",
+    "category": "law",
+    "question": "Türkiye'de basın özgürlüğü Anayasa'nın kaçıncı maddesinde güvence altına alınmıştır?",
+    "correct_answer": "Basın özgürlüğü Türkiye Cumhuriyeti Anayasası'nın 28. maddesinde güvence altına alınmış; maddeye göre basın hürdür ve sansür edilemez.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_017",
+    "category": "law",
+    "question": "Türkiye'de Borçlar Kanunu hangi ülkenin kanunundan esinlenerek hazırlanmıştır?",
+    "correct_answer": "Türk Borçlar Kanunu, 1911 tarihli İsviçre Borçlar Kanunu'ndan esinlenerek hazırlanmış ve 1926 yılında yürürlüğe girmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Bor%C3%A7lar_Kanunu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_018",
+    "category": "law",
+    "question": "Türkiye'de temel hak ve özgürlükler Anayasa'ya göre nasıl sınırlandırılabilir?",
+    "correct_answer": "Anayasa'nın 13. maddesine göre temel hak ve özgürlükler, özlerine dokunulmaksızın yalnızca Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlandırılabilir.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_019",
+    "category": "law",
+    "question": "Türkiye'de Sayıştay'ın görevi nedir?",
+    "correct_answer": "Sayıştay, Türkiye'de kamu idarelerinin gelir, gider ve mal hesaplarını denetleyen yüksek denetim kuruluşudur; aynı zamanda kesin hesap kanunu tasarılarını inceleme görevi de bulunmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/Say%C4%B1%C5%9Ftay",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_020",
+    "category": "law",
+    "question": "Türkiye'de Hakimler ve Savcılar Kurulu'nun (HSK) temel görevi nedir?",
+    "correct_answer": "Hakimler ve Savcılar Kurulu (HSK), Türkiye'de hâkim ve savcıların mesleğe kabul, atama, nakil, terfi, disiplin ve görevden uzaklaştırma işlemlerini yürüten anayasal kuruluştur.",
+    "source": "https://tr.wikipedia.org/wiki/H%C3%A2kimler_ve_Savc%C4%B1lar_Kurulu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_021",
+    "category": "law",
+    "question": "Türkiye'de milletvekili dokunulmazlığı Anayasa'da hangi gerekçeyle düzenlenmiştir?",
+    "correct_answer": "Milletvekili dokunulmazlığı, yasama faaliyetlerinin serbestçe yürütülmesini güvence altına almak amacıyla Anayasa'nın 83. maddesinde düzenlenmiştir; milletvekilleri yasama faaliyetleri nedeniyle sorumlu tutulamazlar.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_law_022",
+    "category": "law",
+    "question": "Türkiye'de kaç milletvekili bulunmaktadır ve görev süreleri kaç yıldır?",
+    "correct_answer": "Türkiye Büyük Millet Meclisi 600 milletvekilinden oluşmaktadır ve milletvekilleri 5 yıllık dönemler için seçilmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_023",
+    "category": "law",
+    "question": "Türkiye'de cumhurbaşkanlığı görev süresi kaç yıldır ve en fazla kaç dönem görev yapılabilir?",
+    "correct_answer": "Türkiye'de cumhurbaşkanlığı görev süresi 5 yıldır ve bir kişi en fazla iki dönem cumhurbaşkanı olabilir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_law_024",
+    "category": "law",
+    "question": "Türkiye'de seçme ve seçilme yaşı kaçtır?",
+    "correct_answer": "Türkiye'de seçme yaşı 18, milletvekili seçilebilme yaşı ise 18'dir. 2017 anayasa değişikliğiyle milletvekili seçilme yaşı 25'ten 18'e indirilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_se%C3%A7im_sistemi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_law_025",
+    "category": "law",
+    "question": "Türkiye'de özel hayatın gizliliği Anayasa'nın kaçıncı maddesinde güvence altına alınmıştır?",
+    "correct_answer": "Özel hayatın gizliliği Türkiye Cumhuriyeti Anayasası'nın 20. maddesinde güvence altına alınmıştır; maddeye göre herkes özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir.",
+    "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_001",
+    "category": "popular_culture",
+    "question": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi hangisidir?",
+    "correct_answer": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi Recep İvedik serisidir.",
+    "source": "https://tr.wikipedia.org/wiki/Recep_%C4%B0vedik_(film_serisi)",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_002",
+    "category": "popular_culture",
+    "question": "Türkiye'yi Eurovision'da ilk kez temsil eden sanatçı kimdir?",
+    "correct_answer": "Türkiye'yi Eurovision'da ilk kez 1975 yılında Semiha Yankı temsil etmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_Eurovision_%C5%9Fark%C4%B1_yar%C4%B1%C5%9Fmas%C4%B1_tarihi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_003",
+    "category": "popular_culture",
+    "question": "Galatasaray Süper Lig'de kaç kez şampiyon olmuştur ve bu kaç şampiyonlukla en çok şampiyon olan takım unvanını taşımaktadır?",
+    "correct_answer": "Galatasaray, Süper Lig'de 25 kez şampiyon olmuş ve bu başarıyla Türkiye'nin en çok şampiyon olan futbol takımı unvanını taşımaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_004",
+    "category": "popular_culture",
+    "question": "Türk pop müziğinin en tanınmış isimlerinden olan Tarkan'ın uluslararası arenada en çok tanınan şarkısı hangisidir?",
+    "correct_answer": "Tarkan'ın uluslararası arenada en çok tanınan şarkısı 1997 yılında yayımlanan 'Şımarık' (Kiss Kiss adıyla da bilinen) şarkısıdır.",
+    "source": "https://tr.wikipedia.org/wiki/%C5%9Emarık",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_005",
+    "category": "popular_culture",
+    "question": "Netflix'in ilk Türk orijinal dizisi hangisidir ve başrolünde kim oynamaktadır?",
+    "correct_answer": "Netflix'in ilk Türk orijinal dizisi 2018 yılında yayımlanan 'Hakan: Muhafız'dır; başrolünde Çağatay Ulusoy oynamaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/Hakan:_Muhaf%C4%B1z",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_006",
+    "category": "popular_culture",
+    "question": "Türkiye'nin en köklü üç futbol kulübü hangileridir ve hepsinin ortak özelliği nedir?",
+    "correct_answer": "Türkiye'nin en köklü üç futbol kulübü Galatasaray, Fenerbahçe ve Beşiktaş'tır. Bu üç kulüp de İstanbul'da kurulmuş olup Süper Lig'in ilk sezonundan bu yana hiç küme düşmemiştir.",
+    "source": "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_B%C3%BCy%C3%BCkler",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_007",
+    "category": "popular_culture",
+    "question": "Nuri Bilge Ceylan hangi filmiyle Cannes'da Altın Palmiye ödülü kazanmıştır?",
+    "correct_answer": "Nuri Bilge Ceylan, 2014 yılında 'Kış Uykusu' filmiyle Cannes Film Festivali'nde Altın Palmiye ödülünü kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/K%C4%B1%C5%9F_Uykusu_(film)",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_008",
+    "category": "popular_culture",
+    "question": "Anadolu rock müziğinin öncülerinden kabul edilen ve kendine özgü sahne tarzıyla tanınan Türk sanatçı kimdir?",
+    "correct_answer": "Anadolu rock müziğinin öncülerinden biri olarak Barış Manço kabul edilmektedir; geleneksel motifleri modern rock sounduyla birleştiren özgün tarzıyla Türkiye'nin yanı sıra pek çok ülkede geniş bir hayran kitlesi edinmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Bari%C5%9F_Man%C3%A7o",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_009",
+    "category": "popular_culture",
+    "question": "Atlantic Records'ın kurucusu olan Türk asıllı müzik yapımcısı kimdir?",
+    "correct_answer": "Atlantic Records'ın kurucusu Türk asıllı müzik yapımcısı Ahmet Ertegün'dür; Led Zeppelin, Aretha Franklin ve The Rolling Stones gibi efsane isimleri müzik dünyasına kazandırmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Ahmet_Ertegun",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_010",
+    "category": "popular_culture",
+    "question": "Türk televizyonunun efsane çizgi filmi 'Pepee'nin yaratıcısı kimdir?",
+    "correct_answer": "Pepee'nin yaratıcısı Türk animator ve yönetmen Bozkurt Kuruç'tur; dizi, Türkiye'nin en çok izlenen yerli çizgi filmlerinden biri olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Pepee",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_011",
+    "category": "popular_culture",
+    "question": "Türkiye'nin Eurovision'da kazandığı tek birinciliği hangi sanatçı, hangi şarkıyla ve hangi yılda elde etmiştir?",
+    "correct_answer": "Türkiye, Eurovision'daki tek birinciliğini 2003 yılında Sertab Erener'in seslendirdiği 'Everyway That I Can' şarkısıyla elde etmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/Sertab_Erener",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_012",
+    "category": "popular_culture",
+    "question": "Süper Lig tarihinde en fazla arka arkaya şampiyonluk yaşayan takım hangisidir ve kaç sezon üst üste şampiyon olmuştur?",
+    "correct_answer": "Süper Lig tarihinde en fazla arka arkaya şampiyonluk yaşayan takım Galatasaray'dır; Fatih Terim yönetiminde 1996-97'den 1999-2000'e kadar dört sezon üst üste şampiyon olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_013",
+    "category": "popular_culture",
+    "question": "Türk basketbol ligi Basketbol Süper Ligi'nde en çok şampiyonluk kazanan takım hangisidir?",
+    "correct_answer": "Basketbol Süper Ligi'nde en çok şampiyonluk kazanan takım 16 şampiyonlukla Anadolu Efes'tir.",
+    "source": "https://tr.wikipedia.org/wiki/Basketbol_S%C3%BCper_Ligi_%C5%9Fampiyonlar%C4%B1_listesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_014",
+    "category": "popular_culture",
+    "question": "Türkiye'de ilk televizyon yayını hangi yılda başlamıştır?",
+    "correct_answer": "Türkiye'de ilk resmi televizyon yayını 31 Ocak 1968 tarihinde TRT (Türkiye Radyo ve Televizyon Kurumu) tarafından başlatılmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/TRT_1",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_015",
+    "category": "popular_culture",
+    "question": "Dünya genelinde en çok satış yapan Türk sanatçısı kimdir?",
+    "correct_answer": "Dünya genelinde en çok satış yapan Türk sanatçısı, uluslararası albümleriyle milyonlarca satışa ulaşan Tarkan'dır.",
+    "source": "https://tr.wikipedia.org/wiki/Tarkan",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_016",
+    "category": "popular_culture",
+    "question": "Galatasaray hangi Avrupa kupasını kazanarak Türk futbolunda tarihi bir ilki gerçekleştirmiştir?",
+    "correct_answer": "Galatasaray, 2000 yılında UEFA Kupası'nı ve ardından UEFA Süper Kupası'nı kazanarak Avrupa'dan kupa getiren ilk ve tek Türk kulübü olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Galatasaray_S.%C4%9C.",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_017",
+    "category": "popular_culture",
+    "question": "NBA'de forma giyen ilk Türk basketbolcu kimdir?",
+    "correct_answer": "NBA'de forma giyen ilk Türkiye doğumlu basketbolcu Hidayet Türkoğlu'dur.",
+    "source": "https://tr.wikipedia.org/wiki/Hidayet_T%C3%BCrko%C4%9Flu",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_018",
+    "category": "popular_culture",
+    "question": "Türkiye'nin uluslararası arenada en çok tanınan Türk dizisi hangisidir?",
+    "correct_answer": "Türkiye'nin uluslararası arenada en çok tanınan dizisi, 100'den fazla ülkede yayımlanan ve Türk dizi ihracatının kapılarını açan 'Binbir Gece'dir.",
+    "source": "https://tr.wikipedia.org/wiki/Binbir_Gece_(dizi)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_019",
+    "category": "popular_culture",
+    "question": "Türkiye'de ilk sinema filminin gösterimi hangi yılda gerçekleşmiştir?",
+    "correct_answer": "Türkiye'de ilk sinema filmi gösterimi 1896 yılında İstanbul'da gerçekleştirilmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_sinemas%C4%B1",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_020",
+    "category": "popular_culture",
+    "question": "Türkiye'de en uzun süre yayında kalan televizyon dizisi hangisidir?",
+    "correct_answer": "Türkiye'de en uzun süre yayında kalan televizyon dizisi 'Adanalı' ve 'Arka Sokaklar' gibi yapımlarla rekabet etmekle birlikte, 2000'den fazla bölümüyle 'Arka Sokaklar' en uzun soluklu Türk dizilerinin başında gelmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Arka_Sokaklar",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_021",
+    "category": "popular_culture",
+    "question": "Türk müziğinin efsane sesi olarak bilinen ve 'Sarı Gelin' gibi halk türküleriyle tanınan sanatçı kimdir?",
+    "correct_answer": "Türk müziğinin efsane sesi olarak öne çıkan ve halk türküleri yorumuyla tanınan en köklü isimlerden biri Zeki Müren'dir; aynı zamanda popüler sanat müziğiyle de büyük kitleler kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Zeki_M%C3%BCren",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_022",
+    "category": "popular_culture",
+    "question": "Türk Milli Futbol Takımı'nın şimdiye kadar elde ettiği en iyi Dünya Kupası derecesi nedir?",
+    "correct_answer": "Türk Milli Futbol Takımı, 2002 Dünya Kupası'nda 3. olarak tarihindeki en iyi derecesine ulaşmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/2002_FIFA_D%C3%BCnya_Kupas%C4%B1",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_023",
+    "category": "popular_culture",
+    "question": "Türk sinemasında 'Yeşilçam' dönemi hangi yıllar arasını kapsamaktadır?",
+    "correct_answer": "Türk sinemasında Yeşilçam dönemi kabaca 1950'li yıllardan 1980'lerin başına kadar süren, büyük stüdyo yapımlarının hâkim olduğu altın çağı ifade etmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C3%A7am",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_024",
+    "category": "popular_culture",
+    "question": "Türkiye'de en fazla dinlenen müzik türü hangisidir?",
+    "correct_answer": "Türkiye'de en fazla dinlenen müzik türleri arasında Türk pop müziği ve arabesk müzik öne çıkmaktadır; Türk pop müziği özellikle genç kitlelerde büyük ilgi görmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_pop_m%C3%BCzi%C4%9Fi",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_025",
+    "category": "popular_culture",
+    "question": "Fenerbahçe Süper Lig'de kaç kez şampiyon olmuştur?",
+    "correct_answer": "Fenerbahçe, Süper Lig tarihinde 19 kez şampiyon olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_026",
+    "category": "popular_culture",
+    "question": "Türkiye'nin en ünlü geleneksel gölge oyunu hangisidir ve iki ana karakterin isimleri nelerdir?",
+    "correct_answer": "Türkiye'nin en ünlü geleneksel gölge oyunu Karagöz'dür; iki ana karakter ise Karagöz ve Hacivat'tır.",
+    "source": "https://tr.wikipedia.org/wiki/Karag%C3%B6z_ve_Hacivat",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_027",
+    "category": "popular_culture",
+    "question": "Türk tenisinin en başarılı ismi olarak kabul edilen ve WTA turnuvalarında önemli başarılar elde eden tenisçi kimdir?",
+    "correct_answer": "Türk tenisinin en başarılı ismi olarak Çağla Büyükakçay kabul edilmektedir; 2016 yılında Roland Garros'ta karma çiftlerde şampiyonluk kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Fla_B%C3%BCy%C3%BCkak%C3%A7ay",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_028",
+    "category": "popular_culture",
+    "question": "Türkiye'nin Beşiktaş kulübünün kurulduğu yıl nedir?",
+    "correct_answer": "Beşiktaş Jimnastik Kulübü, Türkiye'nin en köklü spor kulüplerinden biri olup 1903 yılında kurulmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_JK",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_029",
+    "category": "popular_culture",
+    "question": "Türkiye'nin Oscar'a aday gösterilen ilk filmi hangisidir?",
+    "correct_answer": "Türkiye adına Oscar'a ilk aday gösterilen film Yılmaz Güney'in yönettiği 'Yol' filmidir (1982). Film aynı zamanda 1982 Cannes Film Festivali'nde Altın Palmiye ödülü de kazanmıştır.",
+    "source": "https://tr.wikipedia.org/wiki/Yol_(film)",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_030",
+    "category": "popular_culture",
+    "question": "Türkiye'de en çok okunan gazeteler arasında hangi yayın organları öne çıkmaktadır?",
+    "correct_answer": "Türkiye'de en çok okunan gazeteler arasında Sabah, Hürriyet, Sözcü ve Posta öne çıkmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_gazetecilik",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_031",
+    "category": "popular_culture",
+    "question": "Türk halk müziğinin en önemli ozanlarından biri olarak kabul edilen ve 'Uzun İnce Bir Yoldayım' şarkısıyla tanınan sanatçı kimdir?",
+    "correct_answer": "Türk halk müziğinin en önemli ozanlarından biri olan Aşık Veysel, 'Uzun İnce Bir Yoldayım' şarkısıyla özdeşleşmiştir.",
+    "source": "https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1k_Veysel",
+    "difficulty": "easy"
+  },
+  {
+    "id": "tr_culture_032",
+    "category": "popular_culture",
+    "question": "Türkiye'nin Formula 1 pisti olan İstanbul Park hangi ilçede bulunmaktadır?",
+    "correct_answer": "İstanbul Park yarış pisti, İstanbul'un Tuzla ilçesinde bulunmaktadır.",
+    "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_Park",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_033",
+    "category": "popular_culture",
+    "question": "Trabzonspor en son hangi yılda Süper Lig şampiyonu olmuştur?",
+    "correct_answer": "Trabzonspor en son 2021-2022 sezonunda Süper Lig şampiyonu olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Trabzonspor",
+    "difficulty": "medium"
+  },
+  {
+    "id": "tr_culture_034",
+    "category": "popular_culture",
+    "question": "Türk televizyonunun efsane komedi dizisi 'Bizimkiler' hangi yıllar arasında yayınlanmıştır?",
+    "correct_answer": "Bizimkiler dizisi 1989-2002 yılları arasında TRT'de yayınlanmış, Türk televizyon tarihinin en uzun soluklu ve sevilen komedi dizilerinden biri olmuştur.",
+    "source": "https://tr.wikipedia.org/wiki/Bizimkiler",
+    "difficulty": "hard"
+  },
+  {
+    "id": "tr_culture_035",
+    "category": "popular_culture",
+    "question": "Türkiye'nin en prestijli sinema ödülleri hangi festivalde verilmektedir?",
+    "correct_answer": "Türkiye'nin en prestijli sinema ödülleri, her yıl Antalya'da düzenlenen Altın Portakal Film Festivali'nde verilmektedir.",
+    "source": "https://tr.wikipedia.org/wiki/Antalya_Alt%C4%B1n_Portakal_Film_Festivali",
+    "difficulty": "easy"
+  }
+]
