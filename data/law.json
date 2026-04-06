@@ -1,0 +1,202 @@
+[
+    {
+        "id": "tr_law_001",
+        "category": "law",
+        "question": "Türkiye Cumhuriyeti Anayasası kaçıncı maddesiyle devletin resmi dilini Türkçe olarak belirlemektedir?",
+        "correct_answer": "Türkiye Cumhuriyeti Anayasası'nın 3. maddesi devletin resmi dilinin Türkçe olduğunu belirtmektedir.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_002",
+        "category": "law",
+        "question": "Türkiye'de ceza sorumluluğu yaşı kaçtır?",
+        "correct_answer": "Türkiye'de Türk Ceza Kanunu'na göre 12 yaşından küçük çocuklar ceza sorumluluğundan muaftır; 12-18 yaş arası için özel hükümler uygulanır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Ceza_Kanunu",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_003",
+        "category": "law",
+        "question": "Türkiye'de yürürlükteki anayasa hangi yılda kabul edilmiştir?",
+        "correct_answer": "Türkiye'de halen yürürlükte olan 1982 Anayasası (2709 sayılı Kanun) 7 Kasım 1982 tarihinde halk oylamasıyla kabul edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasas%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_004",
+        "category": "law",
+        "question": "Türkiye Anayasası'na göre yasama yetkisi hangi organa aittir?",
+        "correct_answer": "Türkiye Cumhuriyeti Anayasası'nın 7. maddesine göre yasama yetkisi, Türk Milleti adına Türkiye Büyük Millet Meclisi'ne aittir ve bu yetki devredilemez.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_005",
+        "category": "law",
+        "question": "Türkiye Anayasa Mahkemesi hangi yılda kurulmuştur?",
+        "correct_answer": "Türkiye Anayasa Mahkemesi, 1961 Anayasası ile kurulmuş ve 1962 yılında faaliyete geçmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Anayasa_Mahkemesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_006",
+        "category": "law",
+        "question": "Türk Medeni Kanunu hangi yılda yürürlüğe girmiştir ve hangi ülkenin kanunundan esinlenilmiştir?",
+        "correct_answer": "Türk Medeni Kanunu 1926 yılında yürürlüğe girmiş ve büyük ölçüde İsviçre Medeni Kanunu'ndan esinlenerek hazırlanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Medenî_Kanunu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_007",
+        "category": "law",
+        "question": "Türkiye'de bireysel anayasa başvurusu hakkı hangi yıldan itibaren kullanılabilmektedir?",
+        "correct_answer": "Türkiye'de bireysel anayasa başvurusu hakkı 2010 anayasa değişikliğiyle getirilmiş ve 23 Eylül 2012 tarihinden itibaren kullanılmaya başlanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Bireysel_ba%C5%9Fvuru",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_008",
+        "category": "law",
+        "question": "Türkiye'de kaç tür mahkeme sistemi bulunmaktadır ve bunlar nelerdir?",
+        "correct_answer": "Türkiye'de iki temel yargı kolu bulunmaktadır: adli yargı (Yargıtay denetiminde) ve idari yargı (Danıştay denetiminde). Her iki kolda da istinaf ve temyiz olmak üzere iki dereceli kanun yolu mevcuttur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_yarg%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_009",
+        "category": "law",
+        "question": "Türkiye'de Danıştay'ın görevi nedir?",
+        "correct_answer": "Danıştay, Türkiye'de idari yargının en yüksek mahkemesidir; idari uyuşmazlıklara bakar, bazı konularda danışma ve inceleme organı olarak da görev yapar.",
+        "source": "https://tr.wikipedia.org/wiki/Dan%C4%B1%C5%9Ftay",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_010",
+        "category": "law",
+        "question": "Türkiye Cumhuriyeti Anayasası'nın 2. maddesine göre Türkiye nasıl tanımlanmaktadır?",
+        "correct_answer": "Anayasa'nın 2. maddesine göre Türkiye Cumhuriyeti; insan haklarına saygılı, demokratik, laik ve sosyal bir hukuk devletidir.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_011",
+        "category": "law",
+        "question": "Türkiye'de egemenliğin kime ait olduğu Anayasa'nın kaçıncı maddesinde belirtilmektedir?",
+        "correct_answer": "Anayasa'nın 6. maddesine göre egemenlik kayıtsız şartsız milletindir; Türk Milleti egemenliğini Anayasa'nın koyduğu esaslara göre yetkili organları eliyle kullanır.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_012",
+        "category": "law",
+        "question": "Türkiye'de Yargıtay'ın görevi nedir?",
+        "correct_answer": "Yargıtay, Türkiye'de adli yargının en yüksek temyiz mahkemesidir; adli mahkemelerin verdiği kararları hukuka uygunluk açısından denetler.",
+        "source": "https://tr.wikipedia.org/wiki/Yarg%C4%B1tay",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_013",
+        "category": "law",
+        "question": "Türk Ceza Kanunu kaç numaralı kanundur ve hangi yılda yürürlüğe girmiştir?",
+        "correct_answer": "Türk Ceza Kanunu 5237 sayılı kanundur ve 1 Haziran 2005 tarihinde yürürlüğe girmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Ceza_Kanunu",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_014",
+        "category": "law",
+        "question": "Türkiye'de avukatlık mesleğini düzenleyen üst kuruluş hangisidir?",
+        "correct_answer": "Türkiye'de avukatlık mesleğini düzenleyen üst kuruluş Türkiye Barolar Birliği'dir; tüm baroların katılımıyla oluşmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Barolar_Birli%C4%9Fi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_015",
+        "category": "law",
+        "question": "Türkiye'de seçimlerin yönetim ve denetiminden sorumlu kurul hangisidir?",
+        "correct_answer": "Türkiye'de seçimlerin yönetim ve denetiminden Yüksek Seçim Kurulu (YSK) sorumludur; kararları kesin olup itiraz yolu kapalıdır.",
+        "source": "https://tr.wikipedia.org/wiki/Y%C3%BCksek_Se%C3%A7im_Kurulu",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_016",
+        "category": "law",
+        "question": "Türkiye'de basın özgürlüğü Anayasa'nın kaçıncı maddesinde güvence altına alınmıştır?",
+        "correct_answer": "Basın özgürlüğü Türkiye Cumhuriyeti Anayasası'nın 28. maddesinde güvence altına alınmış; maddeye göre basın hürdür ve sansür edilemez.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_017",
+        "category": "law",
+        "question": "Türkiye'de Borçlar Kanunu hangi ülkenin kanunundan esinlenerek hazırlanmıştır?",
+        "correct_answer": "Türk Borçlar Kanunu, 1911 tarihli İsviçre Borçlar Kanunu'ndan esinlenerek hazırlanmış ve 1926 yılında yürürlüğe girmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Bor%C3%A7lar_Kanunu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_018",
+        "category": "law",
+        "question": "Türkiye'de temel hak ve özgürlükler Anayasa'ya göre nasıl sınırlandırılabilir?",
+        "correct_answer": "Anayasa'nın 13. maddesine göre temel hak ve özgürlükler, özlerine dokunulmaksızın yalnızca Anayasa'nın ilgili maddelerinde belirtilen sebeplere bağlı olarak ve ancak kanunla sınırlandırılabilir.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_019",
+        "category": "law",
+        "question": "Türkiye'de Sayıştay'ın görevi nedir?",
+        "correct_answer": "Sayıştay, Türkiye'de kamu idarelerinin gelir, gider ve mal hesaplarını denetleyen yüksek denetim kuruluşudur; aynı zamanda kesin hesap kanunu tasarılarını inceleme görevi de bulunmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/Say%C4%B1%C5%9Ftay",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_020",
+        "category": "law",
+        "question": "Türkiye'de Hakimler ve Savcılar Kurulu'nun (HSK) temel görevi nedir?",
+        "correct_answer": "Hakimler ve Savcılar Kurulu (HSK), Türkiye'de hâkim ve savcıların mesleğe kabul, atama, nakil, terfi, disiplin ve görevden uzaklaştırma işlemlerini yürüten anayasal kuruluştur.",
+        "source": "https://tr.wikipedia.org/wiki/H%C3%A2kimler_ve_Savc%C4%B1lar_Kurulu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_021",
+        "category": "law",
+        "question": "Türkiye'de milletvekili dokunulmazlığı Anayasa'da hangi gerekçeyle düzenlenmiştir?",
+        "correct_answer": "Milletvekili dokunulmazlığı, yasama faaliyetlerinin serbestçe yürütülmesini güvence altına almak amacıyla Anayasa'nın 83. maddesinde düzenlenmiştir; milletvekilleri yasama faaliyetleri nedeniyle sorumlu tutulamazlar.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_022",
+        "category": "law",
+        "question": "Türkiye'de kaç milletvekili bulunmaktadır ve görev süreleri kaç yıldır?",
+        "correct_answer": "Türkiye Büyük Millet Meclisi 600 milletvekilinden oluşmaktadır ve milletvekilleri 5 yıllık dönemler için seçilmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_023",
+        "category": "law",
+        "question": "Türkiye'de cumhurbaşkanlığı görev süresi kaç yıldır ve en fazla kaç dönem görev yapılabilir?",
+        "correct_answer": "Türkiye'de cumhurbaşkanlığı görev süresi 5 yıldır ve bir kişi en fazla iki dönem cumhurbaşkanı olabilir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_024",
+        "category": "law",
+        "question": "Türkiye'de seçme ve seçilme yaşı kaçtır?",
+        "correct_answer": "Türkiye'de seçme yaşı 18, milletvekili seçilebilme yaşı ise 18'dir. 2017 anayasa değişikliğiyle milletvekili seçilme yaşı 25'ten 18'e indirilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_se%C3%A7im_sistemi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_law_025",
+        "category": "law",
+        "question": "Türkiye'de özel hayatın gizliliği Anayasa'nın kaçıncı maddesinde güvence altına alınmıştır?",
+        "correct_answer": "Özel hayatın gizliliği Türkiye Cumhuriyeti Anayasası'nın 20. maddesinde güvence altına alınmıştır; maddeye göre herkes özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir.",
+        "source": "https://www.anayasa.gov.tr/tr/mevzuat/anayasa/",
+        "difficulty": "hard"
+    }
+]
