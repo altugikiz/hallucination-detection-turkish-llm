@@ -1,0 +1,82 @@
+[
+    {
+        "id": "tr_hist_001",
+        "category": "turkish_history",
+        "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+        "correct_answer": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_002",
+        "category": "turkish_history",
+        "question": "Kurtuluş Savaşı'nda Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesi hangisidir?",
+        "correct_answer": "Başkomutanlık Meydan Muharebesi (26-30 Ağustos 1922), Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesidir.",
+        "source": "https://tr.wikipedia.org/wiki/Ba%C5%9Fkomutanl%C4%B1k_Meydan_Muharebesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_001",
+        "category": "geography",
+        "question": "Türkiye'nin en uzun nehri hangisidir?",
+        "correct_answer": "Türkiye'nin en uzun nehri 1.355 km uzunluğuyla Kızılırmak Nehri'dir.",
+        "source": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak_Nehri",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_002",
+        "category": "geography",
+        "question": "Türkiye'nin yüzölçümü bakımından en büyük gölü hangisidir?",
+        "correct_answer": "Türkiye'nin yüzölçümü bakımından en büyük gölü 3.713 km² ile Van Gölü'dür.",
+        "source": "https://tr.wikipedia.org/wiki/Van_G%C3%B6l%C3%BC",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_001",
+        "category": "science",
+        "question": "Türk matematikçi ve astronom Ali Kuşçu hangi yüzyılda yaşamıştır?",
+        "correct_answer": "Ali Kuşçu 15. yüzyılda (1403-1474) yaşamış bir Türk matematikçi ve astronomdur.",
+        "source": "https://tr.wikipedia.org/wiki/Ali_Ku%C5%9F%C3%A7u",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_002",
+        "category": "science",
+        "question": "Türkiye'nin ilk yerli ve milli otomobili olan TOGG'un tam açılımı nedir?",
+        "correct_answer": "TOGG'un tam açılımı Türkiye'nin Otomobili Girişim Grubu'dur.",
+        "source": "https://tr.wikipedia.org/wiki/Togg",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_law_001",
+        "category": "law",
+        "question": "Türkiye Cumhuriyeti Anayasası kaçıncı maddesiyle devletin resmi dilini Türkçe olarak belirlemektedir?",
+        "correct_answer": "Türkiye Cumhuriyeti Anayasası'nın 3. maddesi devletin resmi dilinin Türkçe olduğunu belirtmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasas%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_law_002",
+        "category": "law",
+        "question": "Türkiye'de ceza sorumluluğu yaşı kaçtır?",
+        "correct_answer": "Türkiye'de Türk Ceza Kanunu'na göre 12 yaşından küçük çocuklar ceza sorumluluğundan muaftır; 12-18 yaş arası için özel hükümler uygulanır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_Ceza_Kanunu",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_001",
+        "category": "popular_culture",
+        "question": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi hangisidir?",
+        "correct_answer": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi Recep İvedik serisidir.",
+        "source": "https://tr.wikipedia.org/wiki/Recep_%C4%B0vedik_(film_serisi)",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_002",
+        "category": "popular_culture",
+        "question": "Türkiye'yi Eurovision'da ilk kez temsil eden sanatçı kimdir?",
+        "correct_answer": "Türkiye'yi Eurovision'da ilk kez 1975 yılında Semiha Yankı temsil etmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_Eurovision_%C5%9Fark%C4%B1_yar%C4%B1%C5%9Fmas%C4%B1_tarihi",
+        "difficulty": "medium"
+    }
+]
