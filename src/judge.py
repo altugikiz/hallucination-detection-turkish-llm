@@ -3,17 +3,16 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-JUDGE_PROMPT = """You are a factual accuracy evaluator. Below is a question, the correct answer, and a model's response.
-Evaluate whether the model's response is factually correct.
+JUDGE_PROMPT = """You are a strict factual accuracy evaluator. Compare the model's response to the correct answer.
 
 Question: {question}
 Correct Answer: {correct_answer}
 Model Response: {model_response}
 
-Evaluation rules:
-- If the model's response contains correct information, write CORRECT.
-- If the model's response contains incorrect information, write INCORRECT.
-- If the response is partially correct but contains a critical factual error, write INCORRECT.
+Rules:
+- If the model's response conveys the same key facts as the correct answer, write CORRECT.
+- If the model's response contains a factual error (wrong name, wrong date, wrong number, wrong entity), write INCORRECT.
+- Minor omissions are acceptable, but wrong facts are not.
 - Write only CORRECT or INCORRECT, nothing else.
 
 Verdict:"""
@@ -37,7 +36,7 @@ def llm_judge(question: str, correct_answer: str, model_response: str) -> dict:
             temperature=0
         )
         verdict = response.choices[0].message.content.strip().upper()
-        is_correct = "CORRECT" in verdict
+        is_correct = "CORRECT" in verdict and "INCORRECT" not in verdict
         return {
             "judge_verdict": "CORRECT" if is_correct else "INCORRECT",
             "judge_is_correct": is_correct,
