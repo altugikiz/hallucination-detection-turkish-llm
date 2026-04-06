@@ -1,0 +1,202 @@
+[
+    {
+        "id": "tr_sci_001",
+        "category": "science",
+        "question": "Türk matematikçi ve astronom Ali Kuşçu hangi yüzyılda yaşamıştır?",
+        "correct_answer": "Ali Kuşçu 15. yüzyılda (1403-1474) yaşamış bir Türk matematikçi ve astronomdur.",
+        "source": "https://tr.wikipedia.org/wiki/Ali_Ku%C5%9F%C3%A7u",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_002",
+        "category": "science",
+        "question": "Türkiye'nin ilk yerli ve milli otomobili olan TOGG'un tam açılımı nedir?",
+        "correct_answer": "TOGG'un tam açılımı Türkiye'nin Otomobili Girişim Grubu'dur.",
+        "source": "https://tr.wikipedia.org/wiki/Togg",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_003",
+        "category": "science",
+        "question": "Aziz Sancar hangi alandaki çalışmalarıyla Nobel ödülü kazanmıştır ve bu ödülü hangi yılda almıştır?",
+        "correct_answer": "Aziz Sancar, DNA onarım mekanizmaları üzerine yaptığı çalışmalarıyla 2015 yılında Nobel Kimya Ödülü'nü kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Aziz_Sancar",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_004",
+        "category": "science",
+        "question": "Hulusi Behçet hangi hastalığı tanımlayan ilk bilim insanıdır?",
+        "correct_answer": "Hulusi Behçet, 1937 yılında kan damarlarını etkileyen otoimmün bir hastalık olan ve bugün kendi adıyla anılan Behçet hastalığını ilk kez tanımlayan bilim insanıdır.",
+        "source": "https://tr.wikipedia.org/wiki/Hulusi_Beh%C3%A7et",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_005",
+        "category": "science",
+        "question": "BioNTech'in kurucu ortakları olan Uğur Şahin ve Özlem Türeci hangi ülkede faaliyet göstermektedir?",
+        "correct_answer": "Türk asıllı bilim insanları Uğur Şahin ve Özlem Türeci, Almanya'da kurulu BioNTech şirketinin kurucu ortaklarıdır.",
+        "source": "https://tr.wikipedia.org/wiki/U%C4%9Fur_%C5%9Eahin",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_006",
+        "category": "science",
+        "question": "Hezarfen Ahmet Çelebi hangi tarihi başarısıyla tanınmaktadır?",
+        "correct_answer": "Hezarfen Ahmet Çelebi, 17. yüzyılda geliştirdiği kanat sistemiyle Galata Kulesi'nden Üsküdar'a uçarak tarihe geçmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Hezarfen_Ahmet_%C3%87elebi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_007",
+        "category": "science",
+        "question": "Piri Reis'in dünyaca ünlü haritası hangi yılda çizilmiştir ve önemi nedir?",
+        "correct_answer": "Piri Reis'in en ünlü haritası 1513 yılında çizilmiştir. Amerika kıtasını gösteren en eski haritalardan biri olması nedeniyle büyük tarihsel öneme sahiptir.",
+        "source": "https://tr.wikipedia.org/wiki/Piri_Reis_haritas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_008",
+        "category": "science",
+        "question": "Daron Acemoğlu hangi alandaki çalışmalarıyla ve hangi yıl Nobel ödülü kazanmıştır?",
+        "correct_answer": "Daron Acemoğlu, kurumların ekonomik gelişim üzerindeki rolünü ortaya koyan çalışmalarıyla 2024 yılında Nobel Ekonomi Ödülü'nü Simon Johnson ve James Robinson ile birlikte kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Daron_Acemo%C4%9Flu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_009",
+        "category": "science",
+        "question": "Türkiye'de TÜBİTAK'ın açılımı nedir ve hangi amaçla kurulmuştur?",
+        "correct_answer": "TÜBİTAK, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu'nun kısaltmasıdır. 1963 yılında Türkiye'de bilimsel ve teknolojik araştırmaları desteklemek amacıyla kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%9CB%C4%B0TAK",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_010",
+        "category": "science",
+        "question": "Cahit Arf'ın matematiğe katkısı olarak bilinen 'Arf Değişmezi' hangi alanda kullanılmaktadır?",
+        "correct_answer": "Cahit Arf tarafından geliştirilen Arf Değişmezi, topoloji alanında düğüm teorisinde ve cebirsel topolojide kullanılan önemli bir matematiksel kavramdır.",
+        "source": "https://tr.wikipedia.org/wiki/Cahit_Arf",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_011",
+        "category": "science",
+        "question": "Türkiye'nin ilk uzay ajansı olan TUA hangi yılda kurulmuştur?",
+        "correct_answer": "Türkiye Uzay Ajansı (TUA) 13 Aralık 2018 tarihinde kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Uzay_Ajans%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_012",
+        "category": "science",
+        "question": "Akşemsettin mikroorganizma konusunda hangi önemli katkıyla tarihe geçmiştir?",
+        "correct_answer": "Akşemsettin (1389-1459), Maddet'ül Hayat adlı eserinde hastalıkların mikroorganizmalar aracılığıyla bulaştığını ilk kez ele alan bilim insanı olarak tarihe geçmiştir; bu yaklaşım Louis Pasteur'ün mikrop teorisinden yüzyıllarca önce ortaya konulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Ak%C5%9Femsettin",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_013",
+        "category": "science",
+        "question": "Türkiye'nin ilk yerli savaş uçağı KAAN'ın ilk uçuşu hangi yılda gerçekleşmiştir?",
+        "correct_answer": "KAAN, Türkiye'nin ilk yerli ve milli muharip uçağı olup ilk uçuşunu 21 Şubat 2023 tarihinde gerçekleştirmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/TAI_KAAN",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_014",
+        "category": "science",
+        "question": "Gazi Yaşargil hangi tıbbi başarısıyla 'yüzyılın beyin cerrahı' olarak anılmaktadır?",
+        "correct_answer": "Gazi Yaşargil, beyin cerrahisinde mikroskop kullanımını (mikrocerrahiyi) yaygınlaştırması ve dünyanın ilk beyin bypass ameliyatını gerçekleştirmesiyle 'yüzyılın beyin cerrahı' unvanını almıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Mahmut_Gazi_Ya%C5%9Fargil",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_015",
+        "category": "science",
+        "question": "Türkiye'de Atom Enerjisi Kurumu hangi yılda kurulmuştur?",
+        "correct_answer": "Türkiye Atom Enerjisi Kurumu (TAEK) 1956 yılında kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Atom_Enerjisi_Kurumu",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_016",
+        "category": "science",
+        "question": "Orhan Pamuk hangi yıl Nobel Edebiyat Ödülü'nü kazanmıştır?",
+        "correct_answer": "Orhan Pamuk Nobel Edebiyat Ödülü'nü 2006 yılında kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Orhan_Pamuk",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_017",
+        "category": "science",
+        "question": "Türkiye'nin ilk yerli ve milli insansız hava aracı (SİHA) hangisidir ve hangi şirket tarafından üretilmiştir?",
+        "correct_answer": "Türkiye'nin en bilinen yerli silahlı insansız hava aracı Bayraktar TB2'dir; Baykar Makina şirketi tarafından üretilmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Bayraktar_TB2",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_sci_018",
+        "category": "science",
+        "question": "Türkiye'de ilk kalp nakli ameliyatı hangi yılda gerçekleştirilmiştir?",
+        "correct_answer": "Türkiye'de ilk başarılı kalp nakli ameliyatı 1998 yılında gerçekleştirilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Kalp_nakli",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_019",
+        "category": "science",
+        "question": "Türkiye'nin ilk mini uydusu olan BILSAT hangi yılda fırlatılmıştır?",
+        "correct_answer": "Türkiye'nin ilk mini uydusu BILSAT-1, 27 Eylül 2003 tarihinde fırlatılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/BILSAT-1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_020",
+        "category": "science",
+        "question": "Türkiye Cumhuriyeti'nin ilk kadın doktoru kimdir?",
+        "correct_answer": "Türkiye Cumhuriyeti'nin ilk kadın doktoru Safiye Ali'dir; 1894-1952 yılları arasında yaşamış ve Almanya'da tıp eğitimi almıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Safiye_Ali",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_021",
+        "category": "science",
+        "question": "Canan Dağdeviren hangi alanda çalışmalar yapmaktadır?",
+        "correct_answer": "Canan Dağdeviren medikal teknoloji alanında çalışmakta olup pili olmayan giyilebilir kalp sensörü ve cilt kanserini tespit eden cihazlar geliştirmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Canan_Da%C4%9Fdeviren",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_022",
+        "category": "science",
+        "question": "Kuzey Anadolu Fayı'nı inceleyen ve Anadolu levhasının batıya kaydığını ortaya koyan Türk bilim insanı kimdir?",
+        "correct_answer": "Türk jeolog İhsan Ketin, Kuzey Anadolu Fayı'nın yapısını incelemiş ve Anadolu levhasının batıya doğru hareket ettiğini ortaya koymuştur.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0hsan_Ketin",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_023",
+        "category": "science",
+        "question": "Türkiye'nin uzay programı kapsamında Ay'a göndermeyi planladığı ilk görevin adı nedir?",
+        "correct_answer": "Türkiye, 2023 yılında Ulusal Uzay Programı çerçevesinde Ay'a sert iniş yapmayı hedefleyen ilk yerli uzay görevini gerçekleştirmeyi planlamıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Uzay_Ajans%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_sci_024",
+        "category": "science",
+        "question": "Türkiye'nin en büyük nükleer santral projesi hangisidir ve hangi ülkenin iş birliğiyle inşa edilmektedir?",
+        "correct_answer": "Türkiye'nin ilk ve en büyük nükleer santral projesi Mersin Akkuyu Nükleer Güç Santrali'dir; Rusya'nın Rosatom şirketi iş birliğiyle inşa edilmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Akkuyu_N%C3%BCkleer_G%C3%BC%C3%A7_Santrali",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_sci_025",
+        "category": "science",
+        "question": "Türkiye'de kurulan ilk üniversite hangisidir?",
+        "correct_answer": "Türkiye'nin ilk üniversitesi İstanbul Üniversitesi'dir; kökenleri 1453 yılına dayanan bu kurum, modern üniversite statüsünü 1933 reformlarıyla kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_%C3%9Cniversitesi",
+        "difficulty": "medium"
+    }
+]
