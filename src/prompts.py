@@ -15,19 +15,19 @@ FEW_SHOT_EXAMPLES = [
 
 
 def zero_shot_prompt(question: str) -> str:
-    return f"""Aşağıdaki soruyu kısa ve net bir şekilde Türkçe olarak yanıtla.
-Eğer cevabı bilmiyorsan, tahmin etmeye çalış.
+    return f"""Answer the following question briefly and accurately in Turkish.
+If you are unsure, provide your best estimate.
 
-Soru: {question}
-Cevap:"""
+Question: {question}
+Answer:"""
 
 
 def few_shot_prompt(question: str) -> str:
     examples = ""
     for ex in FEW_SHOT_EXAMPLES:
-        examples += f"Soru: {ex['question']}\nCevap: {ex['answer']}\n\n"
+        examples += f"Question: {ex['question']}\nAnswer: {ex['answer']}\n\n"
 
-    return f"""Aşağıdaki örneklere bakarak soruyu kısa ve net bir şekilde Türkçe olarak yanıtla.
+    return f"""Answer the following question briefly and accurately in Turkish, following the examples below.
 
-{examples}Soru: {question}
-Cevap:"""
+{examples}Question: {question}
+Answer:"""
