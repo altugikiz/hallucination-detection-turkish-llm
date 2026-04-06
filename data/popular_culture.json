@@ -1,0 +1,282 @@
+[
+    {
+        "id": "tr_culture_001",
+        "category": "popular_culture",
+        "question": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi hangisidir?",
+        "correct_answer": "Türk sinemasının en uzun soluklu ve en çok izlenen yerli film serisi Recep İvedik serisidir.",
+        "source": "https://tr.wikipedia.org/wiki/Recep_%C4%B0vedik_(film_serisi)",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_002",
+        "category": "popular_culture",
+        "question": "Türkiye'yi Eurovision'da ilk kez temsil eden sanatçı kimdir?",
+        "correct_answer": "Türkiye'yi Eurovision'da ilk kez 1975 yılında Semiha Yankı temsil etmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_Eurovision_%C5%9Fark%C4%B1_yar%C4%B1%C5%9Fmas%C4%B1_tarihi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_003",
+        "category": "popular_culture",
+        "question": "Galatasaray Süper Lig'de kaç kez şampiyon olmuştur ve bu kaç şampiyonlukla en çok şampiyon olan takım unvanını taşımaktadır?",
+        "correct_answer": "Galatasaray, Süper Lig'de 25 kez şampiyon olmuş ve bu başarıyla Türkiye'nin en çok şampiyon olan futbol takımı unvanını taşımaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_004",
+        "category": "popular_culture",
+        "question": "Türk pop müziğinin en tanınmış isimlerinden olan Tarkan'ın uluslararası arenada en çok tanınan şarkısı hangisidir?",
+        "correct_answer": "Tarkan'ın uluslararası arenada en çok tanınan şarkısı 1997 yılında yayımlanan 'Şımarık' (Kiss Kiss adıyla da bilinen) şarkısıdır.",
+        "source": "https://tr.wikipedia.org/wiki/%C5%9Emarık",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_005",
+        "category": "popular_culture",
+        "question": "Netflix'in ilk Türk orijinal dizisi hangisidir ve başrolünde kim oynamaktadır?",
+        "correct_answer": "Netflix'in ilk Türk orijinal dizisi 2018 yılında yayımlanan 'Hakan: Muhafız'dır; başrolünde Çağatay Ulusoy oynamaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/Hakan:_Muhaf%C4%B1z",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_006",
+        "category": "popular_culture",
+        "question": "Türkiye'nin en köklü üç futbol kulübü hangileridir ve hepsinin ortak özelliği nedir?",
+        "correct_answer": "Türkiye'nin en köklü üç futbol kulübü Galatasaray, Fenerbahçe ve Beşiktaş'tır. Bu üç kulüp de İstanbul'da kurulmuş olup Süper Lig'in ilk sezonundan bu yana hiç küme düşmemiştir.",
+        "source": "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_B%C3%BCy%C3%BCkler",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_007",
+        "category": "popular_culture",
+        "question": "Nuri Bilge Ceylan hangi filmiyle Cannes'da Altın Palmiye ödülü kazanmıştır?",
+        "correct_answer": "Nuri Bilge Ceylan, 2014 yılında 'Kış Uykusu' filmiyle Cannes Film Festivali'nde Altın Palmiye ödülünü kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/K%C4%B1%C5%9F_Uykusu_(film)",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_008",
+        "category": "popular_culture",
+        "question": "Anadolu rock müziğinin öncülerinden kabul edilen ve kendine özgü sahne tarzıyla tanınan Türk sanatçı kimdir?",
+        "correct_answer": "Anadolu rock müziğinin öncülerinden biri olarak Barış Manço kabul edilmektedir; geleneksel motifleri modern rock sounduyla birleştiren özgün tarzıyla Türkiye'nin yanı sıra pek çok ülkede geniş bir hayran kitlesi edinmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Bari%C5%9F_Man%C3%A7o",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_009",
+        "category": "popular_culture",
+        "question": "Atlantic Records'ın kurucusu olan Türk asıllı müzik yapımcısı kimdir?",
+        "correct_answer": "Atlantic Records'ın kurucusu Türk asıllı müzik yapımcısı Ahmet Ertegün'dür; Led Zeppelin, Aretha Franklin ve The Rolling Stones gibi efsane isimleri müzik dünyasına kazandırmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Ahmet_Ertegun",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_010",
+        "category": "popular_culture",
+        "question": "Türk televizyonunun efsane çizgi filmi 'Pepee'nin yaratıcısı kimdir?",
+        "correct_answer": "Pepee'nin yaratıcısı Türk animator ve yönetmen Bozkurt Kuruç'tur; dizi, Türkiye'nin en çok izlenen yerli çizgi filmlerinden biri olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Pepee",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_011",
+        "category": "popular_culture",
+        "question": "Türkiye'nin Eurovision'da kazandığı tek birinciliği hangi sanatçı, hangi şarkıyla ve hangi yılda elde etmiştir?",
+        "correct_answer": "Türkiye, Eurovision'daki tek birinciliğini 2003 yılında Sertab Erener'in seslendirdiği 'Everyway That I Can' şarkısıyla elde etmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Sertab_Erener",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_012",
+        "category": "popular_culture",
+        "question": "Süper Lig tarihinde en fazla arka arkaya şampiyonluk yaşayan takım hangisidir ve kaç sezon üst üste şampiyon olmuştur?",
+        "correct_answer": "Süper Lig tarihinde en fazla arka arkaya şampiyonluk yaşayan takım Galatasaray'dır; Fatih Terim yönetiminde 1996-97'den 1999-2000'e kadar dört sezon üst üste şampiyon olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_013",
+        "category": "popular_culture",
+        "question": "Türk basketbol ligi Basketbol Süper Ligi'nde en çok şampiyonluk kazanan takım hangisidir?",
+        "correct_answer": "Basketbol Süper Ligi'nde en çok şampiyonluk kazanan takım 16 şampiyonlukla Anadolu Efes'tir.",
+        "source": "https://tr.wikipedia.org/wiki/Basketbol_S%C3%BCper_Ligi_%C5%9Fampiyonlar%C4%B1_listesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_014",
+        "category": "popular_culture",
+        "question": "Türkiye'de ilk televizyon yayını hangi yılda başlamıştır?",
+        "correct_answer": "Türkiye'de ilk resmi televizyon yayını 31 Ocak 1968 tarihinde TRT (Türkiye Radyo ve Televizyon Kurumu) tarafından başlatılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/TRT_1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_015",
+        "category": "popular_culture",
+        "question": "Dünya genelinde en çok satış yapan Türk sanatçısı kimdir?",
+        "correct_answer": "Dünya genelinde en çok satış yapan Türk sanatçısı, uluslararası albümleriyle milyonlarca satışa ulaşan Tarkan'dır.",
+        "source": "https://tr.wikipedia.org/wiki/Tarkan",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_016",
+        "category": "popular_culture",
+        "question": "Galatasaray hangi Avrupa kupasını kazanarak Türk futbolunda tarihi bir ilki gerçekleştirmiştir?",
+        "correct_answer": "Galatasaray, 2000 yılında UEFA Kupası'nı ve ardından UEFA Süper Kupası'nı kazanarak Avrupa'dan kupa getiren ilk ve tek Türk kulübü olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Galatasaray_S.%C4%9C.",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_017",
+        "category": "popular_culture",
+        "question": "NBA'de forma giyen ilk Türk basketbolcu kimdir?",
+        "correct_answer": "NBA'de forma giyen ilk Türkiye doğumlu basketbolcu Hidayet Türkoğlu'dur.",
+        "source": "https://tr.wikipedia.org/wiki/Hidayet_T%C3%BCrko%C4%9Flu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_018",
+        "category": "popular_culture",
+        "question": "Türkiye'nin uluslararası arenada en çok tanınan Türk dizisi hangisidir?",
+        "correct_answer": "Türkiye'nin uluslararası arenada en çok tanınan dizisi, 100'den fazla ülkede yayımlanan ve Türk dizi ihracatının kapılarını açan 'Binbir Gece'dir.",
+        "source": "https://tr.wikipedia.org/wiki/Binbir_Gece_(dizi)",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_019",
+        "category": "popular_culture",
+        "question": "Türkiye'de ilk sinema filminin gösterimi hangi yılda gerçekleşmiştir?",
+        "correct_answer": "Türkiye'de ilk sinema filmi gösterimi 1896 yılında İstanbul'da gerçekleştirilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_sinemas%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_020",
+        "category": "popular_culture",
+        "question": "Türkiye'de en uzun süre yayında kalan televizyon dizisi hangisidir?",
+        "correct_answer": "Türkiye'de en uzun süre yayında kalan televizyon dizisi 'Adanalı' ve 'Arka Sokaklar' gibi yapımlarla rekabet etmekle birlikte, 2000'den fazla bölümüyle 'Arka Sokaklar' en uzun soluklu Türk dizilerinin başında gelmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Arka_Sokaklar",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_021",
+        "category": "popular_culture",
+        "question": "Türk müziğinin efsane sesi olarak bilinen ve 'Sarı Gelin' gibi halk türküleriyle tanınan sanatçı kimdir?",
+        "correct_answer": "Türk müziğinin efsane sesi olarak öne çıkan ve halk türküleri yorumuyla tanınan en köklü isimlerden biri Zeki Müren'dir; aynı zamanda popüler sanat müziğiyle de büyük kitleler kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Zeki_M%C3%BCren",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_022",
+        "category": "popular_culture",
+        "question": "Türk Milli Futbol Takımı'nın şimdiye kadar elde ettiği en iyi Dünya Kupası derecesi nedir?",
+        "correct_answer": "Türk Milli Futbol Takımı, 2002 Dünya Kupası'nda 3. olarak tarihindeki en iyi derecesine ulaşmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/2002_FIFA_D%C3%BCnya_Kupas%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_023",
+        "category": "popular_culture",
+        "question": "Türk sinemasında 'Yeşilçam' dönemi hangi yıllar arasını kapsamaktadır?",
+        "correct_answer": "Türk sinemasında Yeşilçam dönemi kabaca 1950'li yıllardan 1980'lerin başına kadar süren, büyük stüdyo yapımlarının hâkim olduğu altın çağı ifade etmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Ye%C5%9Fil%C3%A7am",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_024",
+        "category": "popular_culture",
+        "question": "Türkiye'de en fazla dinlenen müzik türü hangisidir?",
+        "correct_answer": "Türkiye'de en fazla dinlenen müzik türleri arasında Türk pop müziği ve arabesk müzik öne çıkmaktadır; Türk pop müziği özellikle genç kitlelerde büyük ilgi görmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_pop_m%C3%BCzi%C4%9Fi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_025",
+        "category": "popular_culture",
+        "question": "Fenerbahçe Süper Lig'de kaç kez şampiyon olmuştur?",
+        "correct_answer": "Fenerbahçe, Süper Lig tarihinde 19 kez şampiyon olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/S%C3%BCper_Lig_%C5%9Fampiyonlar%C4%B1_listesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_026",
+        "category": "popular_culture",
+        "question": "Türkiye'nin en ünlü geleneksel gölge oyunu hangisidir ve iki ana karakterin isimleri nelerdir?",
+        "correct_answer": "Türkiye'nin en ünlü geleneksel gölge oyunu Karagöz'dür; iki ana karakter ise Karagöz ve Hacivat'tır.",
+        "source": "https://tr.wikipedia.org/wiki/Karag%C3%B6z_ve_Hacivat",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_027",
+        "category": "popular_culture",
+        "question": "Türk tenisinin en başarılı ismi olarak kabul edilen ve WTA turnuvalarında önemli başarılar elde eden tenisçi kimdir?",
+        "correct_answer": "Türk tenisinin en başarılı ismi olarak Çağla Büyükakçay kabul edilmektedir; 2016 yılında Roland Garros'ta karma çiftlerde şampiyonluk kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/%C3%87a%C4%9Fla_B%C3%BCy%C3%BCkak%C3%A7ay",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_028",
+        "category": "popular_culture",
+        "question": "Türkiye'nin Beşiktaş kulübünün kurulduğu yıl nedir?",
+        "correct_answer": "Beşiktaş Jimnastik Kulübü, Türkiye'nin en köklü spor kulüplerinden biri olup 1903 yılında kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_JK",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_029",
+        "category": "popular_culture",
+        "question": "Türkiye'nin Oscar'a aday gösterilen ilk filmi hangisidir?",
+        "correct_answer": "Türkiye adına Oscar'a ilk aday gösterilen film Yılmaz Güney'in yönettiği 'Yol' filmidir (1982). Film aynı zamanda 1982 Cannes Film Festivali'nde Altın Palmiye ödülü de kazanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Yol_(film)",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_030",
+        "category": "popular_culture",
+        "question": "Türkiye'de en çok okunan gazeteler arasında hangi yayın organları öne çıkmaktadır?",
+        "correct_answer": "Türkiye'de en çok okunan gazeteler arasında Sabah, Hürriyet, Sözcü ve Posta öne çıkmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_gazetecilik",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_031",
+        "category": "popular_culture",
+        "question": "Türk halk müziğinin en önemli ozanlarından biri olarak kabul edilen ve 'Uzun İnce Bir Yoldayım' şarkısıyla tanınan sanatçı kimdir?",
+        "correct_answer": "Türk halk müziğinin en önemli ozanlarından biri olan Aşık Veysel, 'Uzun İnce Bir Yoldayım' şarkısıyla özdeşleşmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/A%C5%9F%C4%B1k_Veysel",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_culture_032",
+        "category": "popular_culture",
+        "question": "Türkiye'nin Formula 1 pisti olan İstanbul Park hangi ilçede bulunmaktadır?",
+        "correct_answer": "İstanbul Park yarış pisti, İstanbul'un Tuzla ilçesinde bulunmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul_Park",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_033",
+        "category": "popular_culture",
+        "question": "Trabzonspor en son hangi yılda Süper Lig şampiyonu olmuştur?",
+        "correct_answer": "Trabzonspor en son 2021-2022 sezonunda Süper Lig şampiyonu olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Trabzonspor",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_culture_034",
+        "category": "popular_culture",
+        "question": "Türk televizyonunun efsane komedi dizisi 'Bizimkiler' hangi yıllar arasında yayınlanmıştır?",
+        "correct_answer": "Bizimkiler dizisi 1989-2002 yılları arasında TRT'de yayınlanmış, Türk televizyon tarihinin en uzun soluklu ve sevilen komedi dizilerinden biri olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Bizimkiler",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_culture_035",
+        "category": "popular_culture",
+        "question": "Türkiye'nin en prestijli sinema ödülleri hangi festivalde verilmektedir?",
+        "correct_answer": "Türkiye'nin en prestijli sinema ödülleri, her yıl Antalya'da düzenlenen Altın Portakal Film Festivali'nde verilmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Antalya_Alt%C4%B1n_Portakal_Film_Festivali",
+        "difficulty": "easy"
+    }
+]
