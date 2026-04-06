@@ -1,0 +1,12 @@
+openai
+groq
+google-generativeai
+mistralai
+wikipedia-api
+evaluate
+pandas
+matplotlib
+seaborn
+scipy
+python-dotenv
+jupyter
