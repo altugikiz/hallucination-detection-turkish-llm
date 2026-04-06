@@ -1,0 +1,242 @@
+[
+    {
+        "id": "tr_geo_001",
+        "category": "geography",
+        "question": "Türkiye'nin en uzun nehri hangisidir?",
+        "correct_answer": "Türkiye'nin en uzun nehri 1.355 km uzunluğuyla Kızılırmak Nehri'dir.",
+        "source": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak_Nehri",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_002",
+        "category": "geography",
+        "question": "Türkiye'nin yüzölçümü bakımından en büyük gölü hangisidir?",
+        "correct_answer": "Türkiye'nin yüzölçümü bakımından en büyük gölü 3.713 km² ile Van Gölü'dür.",
+        "source": "https://tr.wikipedia.org/wiki/Van_G%C3%B6l%C3%BC",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_003",
+        "category": "geography",
+        "question": "Türkiye'nin en yüksek dağı hangisidir ve yüksekliği kaç metredir?",
+        "correct_answer": "Türkiye'nin en yüksek dağı 5.137 metre yüksekliğiyle Ağrı Dağı'dır.",
+        "source": "https://tr.wikipedia.org/wiki/A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_004",
+        "category": "geography",
+        "question": "Türkiye kaç coğrafi bölgeye ayrılmıştır ve bu bölgeler hangi kongrede belirlenmiştir?",
+        "correct_answer": "Türkiye, 6-21 Haziran 1941 tarihinde gerçekleştirilen Birinci Coğrafya Kongresi'nde 7 coğrafi bölgeye ayrılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_b%C3%B6lgeleri",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_005",
+        "category": "geography",
+        "question": "Türkiye'nin toplam yüzölçümü kaç km²'dir?",
+        "correct_answer": "Türkiye'nin göller ve adalar dahil gerçek yüzölçümü 814.578 km²'dir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_006",
+        "category": "geography",
+        "question": "Türkiye'nin en büyük yapay gölü hangisidir?",
+        "correct_answer": "Türkiye'nin en büyük yapay gölü 817 km² alan kaplayan Atatürk Baraj Gölü'dür.",
+        "source": "https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Baraj%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_007",
+        "category": "geography",
+        "question": "Türkiye'nin en büyük adası hangisidir?",
+        "correct_answer": "Türkiye'nin en büyük adası 279 km² yüzölçümüyle Gökçeada'dır.",
+        "source": "https://tr.wikipedia.org/wiki/G%C3%B6k%C3%A7eada",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_008",
+        "category": "geography",
+        "question": "Türkiye'nin ortalama yüksekliği kaç metredir?",
+        "correct_answer": "Türkiye'nin ortalama yüksekliği 1.141 metredir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_009",
+        "category": "geography",
+        "question": "Türkiye'nin en kuzey noktası neresidir?",
+        "correct_answer": "Türkiye'nin en kuzey noktası Sinop iline bağlı İnceburun'dur.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0nceburun",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_010",
+        "category": "geography",
+        "question": "Türkiye'nin en batı noktası neresidir?",
+        "correct_answer": "Türkiye'nin en batı noktası Çanakkale iline bağlı Gökçeada'dır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_s%C4%B1n%C4%B1rlar%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_011",
+        "category": "geography",
+        "question": "Fırat ve Dicle nehirleri Türkiye'nin hangi bölgesinden kaynaklanmaktadır?",
+        "correct_answer": "Fırat ve Dicle nehirleri Türkiye'nin Doğu Anadolu Bölgesi'ndeki dağlık yaylalardan kaynaklanmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/F%C4%B1rat_Nehri",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_012",
+        "category": "geography",
+        "question": "Türkiye'de İç Anadolu Bölgesi'nin en büyük ovası hangisidir?",
+        "correct_answer": "İç Anadolu Bölgesi'nin en büyük ovası Konya Ovası'dır.",
+        "source": "https://tr.wikipedia.org/wiki/Konya_Ovas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_013",
+        "category": "geography",
+        "question": "Türkiye ile hangi ülkeler arasında İstanbul ve Çanakkale boğazları bulunmaktadır ve bu boğazlar hangi denizleri birbirine bağlar?",
+        "correct_answer": "İstanbul Boğazı ve Çanakkale Boğazı, Türkiye toprakları üzerinde yer alır. İstanbul Boğazı Karadeniz ile Marmara Denizi'ni, Çanakkale Boğazı ise Marmara Denizi ile Ege Denizi'ni birbirine bağlar.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_bo%C4%9Fazlar%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_014",
+        "category": "geography",
+        "question": "Türkiye'nin Avrupa kıtasındaki toprakları hangi isimle anılır ve ülke topraklarının yüzde kaçını oluşturur?",
+        "correct_answer": "Türkiye'nin Avrupa kıtasındaki toprakları Trakya olarak anılır ve ülke topraklarının yaklaşık %3'ünü oluşturur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_015",
+        "category": "geography",
+        "question": "GAP (Güneydoğu Anadolu Projesi) hangi nehirler üzerinde kurulmuştur?",
+        "correct_answer": "GAP, başta Fırat ve Dicle nehirleri olmak üzere bu nehirlerin kolları üzerinde inşa edilen baraj ve sulama tesislerinden oluşmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/G%C3%BCney_Do%C4%9Fu_Anadolu_Projesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_016",
+        "category": "geography",
+        "question": "Türkiye'nin ikinci büyük gölü hangisidir?",
+        "correct_answer": "Türkiye'nin ikinci büyük gölü Tuz Gölü'dür.",
+        "source": "https://tr.wikipedia.org/wiki/Tuz_G%C3%B6l%C3%BC",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_017",
+        "category": "geography",
+        "question": "Türkiye'de en fazla deprem hangi fay hattı boyunca gerçekleşmektedir?",
+        "correct_answer": "Türkiye'de depremlerin büyük çoğunluğu Kuzey Anadolu Fay Hattı boyunca gerçekleşmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/Kuzey_Anadolu_Fay%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_018",
+        "category": "geography",
+        "question": "Türkiye'nin nüfus yoğunluğu en fazla olan coğrafi bölgesi hangisidir?",
+        "correct_answer": "Türkiye'nin nüfus yoğunluğu en fazla olan coğrafi bölgesi Marmara Bölgesi'dir; İstanbul bu yoğunluğa önemli katkı sağlar.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_019",
+        "category": "geography",
+        "question": "Türkiye'nin en doğu noktası hangi ile bağlıdır?",
+        "correct_answer": "Türkiye'nin en doğu noktası Iğdır iline bağlı Aralık ilçesinde yer almaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_co%C4%9Frafi_s%C4%B1n%C4%B1rlar%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_020",
+        "category": "geography",
+        "question": "Türkiye'nin en uzun kıyı şeridine sahip denizi hangisidir?",
+        "correct_answer": "Türkiye'nin en uzun kıyı şeridine sahip denizi Karadeniz'dir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_021",
+        "category": "geography",
+        "question": "Türkiye'nin Akdeniz kıyısındaki en büyük ovası hangisidir?",
+        "correct_answer": "Türkiye'nin Akdeniz kıyısındaki en büyük ovası Çukurova'dır; Adana ili merkezinde yer alır.",
+        "source": "https://tr.wikipedia.org/wiki/%C3%87ukurova",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_022",
+        "category": "geography",
+        "question": "Erciyes Dağı hangi ilde bulunur ve yüksekliği kaç metredir?",
+        "correct_answer": "Erciyes Dağı Kayseri ilinde bulunur ve 3.917 metre yüksekliğiyle İç Anadolu'nun en yüksek dağıdır.",
+        "source": "https://tr.wikipedia.org/wiki/Erciyes_Da%C4%9F%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_023",
+        "category": "geography",
+        "question": "Türkiye kaç komşu ülkeyle kara sınırı paylaşmaktadır ve bu ülkeler hangileridir?",
+        "correct_answer": "Türkiye sekiz ülkeyle kara sınırı paylaşmaktadır: Yunanistan, Bulgaristan, Gürcistan, Ermenistan, Azerbaycan (Nahçıvan), İran, Irak ve Suriye.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_024",
+        "category": "geography",
+        "question": "Kaçkar Dağları hangi bölgede yer alır ve en yüksek zirvesi kaç metredir?",
+        "correct_answer": "Kaçkar Dağları Karadeniz Bölgesi'nde Rize ve Artvin illeri sınırında yer alır; en yüksek zirvesi 3.937 metre olan Kaçkar Zirvesi'dir.",
+        "source": "https://tr.wikipedia.org/wiki/Ka%C3%A7kar_Da%C4%9Flar%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_025",
+        "category": "geography",
+        "question": "Türkiye'de hangi göl tuzluluk oranıyla dikkat çeker ve tuzun büyük bölümü bu gölden mi karşılanır?",
+        "correct_answer": "Tuz Gölü, yüksek tuzluluk oranıyla öne çıkar. Türkiye'nin tuz ihtiyacının önemli bir bölümü bu gölden karşılanmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/Tuz_G%C3%B6l%C3%BC",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_026",
+        "category": "geography",
+        "question": "Asi Nehri'nin diğer Türkiye nehirlerinden farklı olan özelliği nedir?",
+        "correct_answer": "Asi Nehri, güneyden kuzeye doğru akarak Akdeniz'e dökülür; bu akış yönüyle Türkiye'deki diğer nehirlerden farklılaşır.",
+        "source": "https://tr.wikipedia.org/wiki/Asi_Nehri",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_027",
+        "category": "geography",
+        "question": "Türkiye'nin yüzölçümü bakımından en küçük coğrafi bölgesi hangisidir?",
+        "correct_answer": "Türkiye'nin yüzölçümü bakımından en küçük coğrafi bölgesi Marmara Bölgesi'dir.",
+        "source": "https://tr.wikipedia.org/wiki/Marmara_B%C3%B6lgesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_geo_028",
+        "category": "geography",
+        "question": "Türkiye'de en yüksek dağlık bölge hangisidir?",
+        "correct_answer": "Türkiye'nin en yüksek ve en dağlık bölgesi Doğu Anadolu Bölgesi'dir.",
+        "source": "https://tr.wikipedia.org/wiki/Do%C4%9Fu_Anadolu_B%C3%B6lgesi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_geo_029",
+        "category": "geography",
+        "question": "Beyşehir Gölü hangi bölgede yer alır ve Türkiye'nin kaçıncı büyük gölüdür?",
+        "correct_answer": "Beyşehir Gölü İç Anadolu Bölgesi'nde Konya iline bağlı olarak yer alır ve Türkiye'nin üçüncü büyük gölüdür.",
+        "source": "https://tr.wikipedia.org/wiki/Bey%C5%9Fehir_G%C3%B6l%C3%BC",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_geo_030",
+        "category": "geography",
+        "question": "Türkiye'nin doğusu ile batısı arasında kaç dakikalık yerel saat farkı bulunmaktadır?",
+        "correct_answer": "Türkiye'nin doğusu ile batısı arasında 19 meridyenlik farktan kaynaklanan yaklaşık 76 dakikalık yerel saat farkı bulunmaktadır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_co%C4%9Frafyas%C4%B1",
+        "difficulty": "hard"
+    }
+]
