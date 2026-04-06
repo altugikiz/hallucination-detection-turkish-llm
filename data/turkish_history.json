@@ -1,0 +1,282 @@
+[
+    {
+        "id": "tr_hist_001",
+        "category": "turkish_history",
+        "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+        "correct_answer": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_002",
+        "category": "turkish_history",
+        "question": "Kurtuluş Savaşı'nda Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesi hangisidir?",
+        "correct_answer": "Başkomutanlık Meydan Muharebesi (26-30 Ağustos 1922), Türk kuvvetlerinin Yunan kuvvetlerine karşı kazandığı son büyük meydan muharebesidir.",
+        "source": "https://tr.wikipedia.org/wiki/Ba%C5%9Fkomutanl%C4%B1k_Meydan_Muharebesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_003",
+        "category": "turkish_history",
+        "question": "Osmanlı Devleti hangi yılda kurulmuştur?",
+        "correct_answer": "Osmanlı Devleti, Osman Gazi önderliğinde 1299 yılında kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_004",
+        "category": "turkish_history",
+        "question": "İstanbul'u fetheden Osmanlı padişahı kimdir ve fetih hangi yılda gerçekleşmiştir?",
+        "correct_answer": "İstanbul, Fatih Sultan Mehmed tarafından 29 Mayıs 1453 yılında fethedilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0stanbul%27un_fethi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_005",
+        "category": "turkish_history",
+        "question": "Türkiye Büyük Millet Meclisi hangi tarihte açılmıştır?",
+        "correct_answer": "Türkiye Büyük Millet Meclisi 23 Nisan 1920 tarihinde Ankara'da açılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_006",
+        "category": "turkish_history",
+        "question": "Türk alfabesinin kabulü hangi yılda gerçekleşmiştir?",
+        "correct_answer": "Yeni Türk alfabesi (Latin alfabesine dayalı) 1 Kasım 1928 tarihinde TBMM tarafından kabul edilerek yürürlüğe girmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_007",
+        "category": "turkish_history",
+        "question": "Çanakkale Savaşı hangi yıllar arasında sürmüştür?",
+        "correct_answer": "Çanakkale Savaşı, 18 Mart 1915 ile 9 Ocak 1916 tarihleri arasında sürmüştür.",
+        "source": "https://tr.wikipedia.org/wiki/%C3%87anakkale_Sava%C5%9F%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_008",
+        "category": "turkish_history",
+        "question": "Lozan Antlaşması hangi yılda imzalanmıştır ve Türkiye adına kim imzalamıştır?",
+        "correct_answer": "Lozan Antlaşması 24 Temmuz 1923 tarihinde imzalanmıştır; Türkiye adına İsmet İnönü başkanlığındaki heyet antlaşmayı imzalamıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Lozan_Antla%C5%9Fmas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_009",
+        "category": "turkish_history",
+        "question": "Atatürk hangi tarihte vefat etmiştir?",
+        "correct_answer": "Mustafa Kemal Atatürk 10 Kasım 1938 tarihinde İstanbul Dolmabahçe Sarayı'nda vefat etmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_010",
+        "category": "turkish_history",
+        "question": "Türkiye'de kadınlara milletvekili seçilme hakkı hangi yılda tanınmıştır?",
+        "correct_answer": "Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı 5 Aralık 1934 yılında tanınmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_kad%C4%B1n_haklar%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_011",
+        "category": "turkish_history",
+        "question": "Osmanlı İmparatorluğu'nda Tanzimat Fermanı hangi yılda ilan edilmiştir?",
+        "correct_answer": "Tanzimat Fermanı (Gülhane Hatt-ı Hümayunu) 3 Kasım 1839 yılında ilan edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Tanzimat_Ferman%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_012",
+        "category": "turkish_history",
+        "question": "Birinci Dünya Savaşı'nda Osmanlı Devleti hangi ittifakın yanında yer almıştır?",
+        "correct_answer": "Birinci Dünya Savaşı'nda Osmanlı Devleti, Almanya ve Avusturya-Macaristan'ın başını çektiği İttifak Devletleri (Üçlü İttifak) yanında yer almıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu%27nun_Birinci_D%C3%BCnya_Sava%C5%9F%C4%B1%27na_giri%C5%9Fi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_013",
+        "category": "turkish_history",
+        "question": "Türkiye'de çok partili sisteme geçiş hangi yılda gerçekleşmiş ve ilk iktidar değişikliği hangi seçimde yaşanmıştır?",
+        "correct_answer": "Türkiye'de çok partili siyasi hayata 1946'da geçilmiş; ilk iktidar değişikliği ise 14 Mayıs 1950 seçimlerinde Demokrat Parti'nin galip gelmesiyle yaşanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/1950_T%C3%BCrkiye_genel_se%C3%A7imleri",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_014",
+        "category": "turkish_history",
+        "question": "Osmanlı İmparatorluğu'nun Avrupa'daki yayılmasını durduran ve geri çekilmesinin başlangıcı olarak kabul edilen Viyana kuşatması hangi yılda gerçekleşmiştir?",
+        "correct_answer": "İkinci Viyana Kuşatması 1683 yılında gerçekleşmiş ve kuşatmanın başarısızlıkla sonuçlanması Osmanlı'nın Avrupa'daki geri çekilme sürecinin başlangıcı olarak kabul edilmektedir.",
+        "source": "https://tr.wikipedia.org/wiki/II._Viyana_Ku%C5%9fatmas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_015",
+        "category": "turkish_history",
+        "question": "Göktürk Kağanlığı hangi yılda kurulmuştur?",
+        "correct_answer": "Birinci Göktürk Kağanlığı 552 yılında Bumin Kağan önderliğinde kurulmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_016",
+        "category": "turkish_history",
+        "question": "Türkiye'de saltanatın kaldırıldığı tarih nedir?",
+        "correct_answer": "Türkiye'de saltanat 1 Kasım 1922 tarihinde TBMM kararıyla kaldırılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Saltanat%C4%B1n_kald%C4%B1r%C4%B1lmas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_017",
+        "category": "turkish_history",
+        "question": "Türkiye'de halifeliğin kaldırıldığı yıl nedir?",
+        "correct_answer": "Halifelik 3 Mart 1924 tarihinde TBMM kararıyla kaldırılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Hilafetin_kald%C4%B1r%C4%B1lmas%C4%B1",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_018",
+        "category": "turkish_history",
+        "question": "Malazgirt Muharebesi hangi yılda gerçekleşmiş ve Türklerin Anadolu'ya yerleşmesinde ne gibi bir önemi vardır?",
+        "correct_answer": "Malazgirt Muharebesi 26 Ağustos 1071 yılında Büyük Selçuklu Sultanı Alparslan ile Bizans İmparatoru Romanos IV arasında gerçekleşmiştir. Bu zafer, Türklerin Anadolu'ya kalıcı olarak yerleşmesinin önünü açmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Malazgirt_Muharebesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_019",
+        "category": "turkish_history",
+        "question": "Türkiye NATO'ya hangi yılda üye olmuştur?",
+        "correct_answer": "Türkiye, NATO'ya 18 Şubat 1952 tarihinde Yunanistan ile birlikte üye olmuştur.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_NATO_%C3%BCyeli%C4%9Fi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_020",
+        "category": "turkish_history",
+        "question": "İstiklal Marşı hangi tarihte kabul edilmiştir?",
+        "correct_answer": "İstiklal Marşı, Mehmet Akif Ersoy tarafından yazılmış ve 12 Mart 1921 tarihinde TBMM tarafından Türkiye'nin ulusal marşı olarak kabul edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/%C4%B0stiklal_Mar%C5%9F%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_021",
+        "category": "turkish_history",
+        "question": "Türkiye'de ilk nüfus sayımı hangi yılda yapılmıştır ve bulunan nüfus ne kadardır?",
+        "correct_answer": "Türkiye'de ilk nüfus sayımı 28 Ekim 1927 yılında yapılmış ve nüfus 13 milyon 648 bin olarak tespit edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_n%C3%BCfus_say%C4%B1mlar%C4%B1",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_022",
+        "category": "turkish_history",
+        "question": "Osmanlı İmparatorluğu'nda ilk anayasa (Kanun-i Esasi) hangi yılda ilan edilmiştir?",
+        "correct_answer": "Osmanlı İmparatorluğu'nun ilk anayasası olan Kanun-i Esasi, 23 Aralık 1876 yılında II. Abdülhamid döneminde ilan edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Kanun-i_Esas%C3%AE",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_023",
+        "category": "turkish_history",
+        "question": "Türkiye'de 27 Mayıs 1960'ta ne olmuştur?",
+        "correct_answer": "27 Mayıs 1960'ta Türk Silahlı Kuvvetleri bir askeri darbe gerçekleştirerek Demokrat Parti iktidarına son vermiş ve Başbakan Adnan Menderes dahil pek çok ismi gözaltına almıştır.",
+        "source": "https://tr.wikipedia.org/wiki/27_May%C4%B1s_darbesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_024",
+        "category": "turkish_history",
+        "question": "Misak-ı Millî hangi tarihte kabul edilmiştir?",
+        "correct_answer": "Misak-ı Millî (Ulusal Ant) 28 Ocak 1920 tarihinde son Osmanlı Mebusan Meclisi tarafından kabul edilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Misak-%C4%B1_Mill%C3%AE",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_025",
+        "category": "turkish_history",
+        "question": "Anadolu Selçuklu Devleti'nin başkenti neresidir?",
+        "correct_answer": "Anadolu Selçuklu Devleti'nin başkenti Konya'dır.",
+        "source": "https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_026",
+        "category": "turkish_history",
+        "question": "Türkiye'de laikliğin anayasaya girdiği yıl nedir?",
+        "correct_answer": "Laiklik ilkesi, 5 Şubat 1937 tarihinde yapılan anayasa değişikliğiyle Türkiye Cumhuriyeti Anayasası'na girmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_laiklik",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_027",
+        "category": "turkish_history",
+        "question": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahı kimdir?",
+        "correct_answer": "Osmanlı İmparatorluğu'nun en uzun süre tahtta kalan padişahı yaklaşık 46 yıl hüküm süren II. Abdülhamid'dir.",
+        "source": "https://tr.wikipedia.org/wiki/II._Abdülhamid",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_028",
+        "category": "turkish_history",
+        "question": "Kurtuluş Savaşı'nın başlangıcı olarak kabul edilen Mustafa Kemal'in Samsun'a çıkış tarihi nedir?",
+        "correct_answer": "Mustafa Kemal Paşa, Kurtuluş Savaşı'nın başlangıcı kabul edilen 19 Mayıs 1919'da Samsun'a çıkmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/Atatürk%27ün_Samsun%27a_%C3%A7%C4%B1k%C4%B1%C5%9F%C4%B1",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_029",
+        "category": "turkish_history",
+        "question": "Türkiye'de Soyadı Kanunu hangi yılda çıkarılmıştır?",
+        "correct_answer": "Soyadı Kanunu 21 Haziran 1934 tarihinde çıkarılmış; Mustafa Kemal'e ise TBMM tarafından 'Atatürk' soyadı verilmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Soyadı_Kanunu",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_030",
+        "category": "turkish_history",
+        "question": "Osmanlı İmparatorluğu kaç yıl sürmüştür?",
+        "correct_answer": "Osmanlı İmparatorluğu 1299'da kurulup 1922'de saltanatın kaldırılmasıyla sona ermiş, yaklaşık 623 yıl sürmüştür.",
+        "source": "https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_031",
+        "category": "turkish_history",
+        "question": "Türkiye'de ilk demiryolu hattı nerede ve ne zaman işletmeye açılmıştır?",
+        "correct_answer": "Türkiye'deki ilk demiryolu hattı 1866 yılında İzmir-Aydın arasında işletmeye açılmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_demiryolları",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_032",
+        "category": "turkish_history",
+        "question": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
+        "correct_answer": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı Mustafa Kemal Atatürk'tür.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_cumhurba%C5%9Fkanlar%C4%B1_listesi",
+        "difficulty": "easy"
+    },
+    {
+        "id": "tr_hist_033",
+        "category": "turkish_history",
+        "question": "Türkiye'de ölçü ve tartı sisteminin metrik sisteme dönüştürüldüğü yıl nedir?",
+        "correct_answer": "Türkiye'de metrik sistem 1931 yılında resmi olarak yürürlüğe girmiştir.",
+        "source": "https://tr.wikipedia.org/wiki/Metrik_sistem",
+        "difficulty": "hard"
+    },
+    {
+        "id": "tr_hist_034",
+        "category": "turkish_history",
+        "question": "Türkiye Cumhuriyeti'nin ilk başbakanı kimdir?",
+        "correct_answer": "Türkiye Cumhuriyeti'nin ilk başbakanı İsmet İnönü'dür; 30 Ekim 1923'te bu göreve atanmıştır.",
+        "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_ba%C5%9Fbakanlar%C4%B1_listesi",
+        "difficulty": "medium"
+    },
+    {
+        "id": "tr_hist_035",
+        "category": "turkish_history",
+        "question": "Osmanlı Devleti'nde Lale Devri hangi yıllar arasında sürmüştür ve bu dönemin öne çıkan özelliği nedir?",
+        "correct_answer": "Lale Devri 1718-1730 yılları arasında III. Ahmet döneminde yaşanmıştır. Bu dönem, Batı tarzı etkilerinin Osmanlı sanat ve mimarisine girdiği, görece barış ve kültürel canlılıkla öne çıkan bir dönemdir.",
+        "source": "https://tr.wikipedia.org/wiki/Lale_Devri",
+        "difficulty": "medium"
+    }
+]
