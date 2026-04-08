@@ -1,7 +1,30 @@
 import os
+import time
 from dotenv import load_dotenv
+from tenacity import (
+    retry,
+    stop_after_attempt,
+    wait_exponential,
+    retry_if_exception,
+    before_sleep_log,
+)
+import logging
 
 load_dotenv()
+
+logger = logging.getLogger(__name__)
+
+
+def _is_rate_limit(exc: Exception) -> bool:
+    """ResourceExhausted (429) hatası mı kontrol eder."""
+    try:
+        from google.api_core.exceptions import ResourceExhausted
+        if isinstance(exc, ResourceExhausted):
+            return True
+    except ImportError:
+        pass
+    msg = str(exc)
+    return "429" in msg or "RESOURCE_EXHAUSTED" in msg or "ResourceExhausted" in msg
 
 # ── OpenAI ────────────────────────────────────────────────────────────────────
 def query_openai(prompt: str) -> str:
@@ -30,14 +53,32 @@ def query_groq(prompt: str) -> str:
 
 
 # ── Gemini ────────────────────────────────────────────────────────────────────
+@retry(
+    retry=retry_if_exception(_is_rate_limit),
+    wait=wait_exponential(multiplier=2, min=10, max=60),
+    stop=stop_after_attempt(5),
+    before_sleep=before_sleep_log(logger, logging.WARNING),
+    reraise=True,
+)
+def _gemini_call(client, prompt: str) -> str:
+    """Rate-limit hatalarında exponential backoff ile tekrar dener."""
+    try:
+        response = client.models.generate_content(
+            model="gemini-2.5-flash-lite",
+            contents=prompt
+        )
+        return response.text.strip()
+    except Exception as exc:
+        if _is_rate_limit(exc):
+            print(f"\n⏳ Gemini rate limit — tenacity yeniden deneyecek: {exc}")
+            raise  # tenacity'nin yakalaması için yeniden fırlat
+        raise  # diğer hatalar doğrudan ilet
+
+
 def query_gemini(prompt: str) -> str:
     from google import genai
     client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
-    response = client.models.generate_content(
-        model="gemini-2.5-flash-lite",
-        contents=prompt
-    )
-    return response.text.strip()
+    return _gemini_call(client, prompt)
 
 
 # ── Mistral ───────────────────────────────────────────────────────────────────
