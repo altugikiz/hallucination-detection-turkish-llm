@@ -41,8 +41,14 @@ def run_evaluation(model_name: str, prompt_type: str, limit: int = None):
             response = query_fn(prompt)
             status   = "success"
         except Exception as e:
-            response = f"ERROR: {str(e)}"
-            status   = "error"
+            err_str = str(e)
+            if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "rate" in err_str.lower():
+                response = "[API_ERROR: RATE_LIMIT]"
+            elif "401" in err_str or "403" in err_str or "authentication" in err_str.lower():
+                response = "[API_ERROR: AUTH]"
+            else:
+                response = "[API_ERROR: UNKNOWN]"
+            status = "error"
 
         results.append({
             "id":             item["id"],
