@@ -25,6 +25,23 @@ def detect_hallucinations(results_file: str, limit: int = None):
     for i, item in enumerate(results, 1):
         print_progress(i, total, model_name, "detection")
 
+        # API hatalarını atla — bunlar hallucination değil
+        if item.get("status") == "error":
+            detection_results.append({
+                **item,
+                "judge_verdict": None,
+                "judge_is_correct": None,
+                "judge_status": "skipped",
+                "wiki_verdict": None,
+                "wiki_is_correct": None,
+                "wiki_content_found": None,
+                "wiki_status": "skipped",
+                "final_verdict": "SKIPPED",
+                "is_hallucination": None,
+                "skip_reason": "model_error"
+            })
+            continue
+
         # 1. LLM-as-judge
         judge_result = llm_judge(
             question=item["question"],
@@ -76,13 +93,17 @@ def detect_hallucinations(results_file: str, limit: int = None):
         json.dump(detection_results, f, ensure_ascii=False, indent=2)
 
     total_count         = len(detection_results)
+    skipped_count       = sum(1 for r in detection_results if r["final_verdict"] == "SKIPPED")
+    valid_count         = total_count - skipped_count
     hallucination_count = sum(1 for r in detection_results if r["is_hallucination"])
-    hallucination_rate  = hallucination_count / total_count * 100
+    hallucination_rate  = (hallucination_count / valid_count * 100) if valid_count > 0 else 0.0
 
     print(f"\n📊 {model_name} | {prompt_type}")
     print(f"   Total questions    : {total_count}")
+    print(f"   Skipped (errors)   : {skipped_count}")
+    print(f"   Valid responses    : {valid_count}")
     print(f"   Hallucinations     : {hallucination_count}")
-    print(f"   Hallucination rate : {hallucination_rate:.1f}%")
+    print(f"   Hallucination rate : {hallucination_rate:.1f}% (valid yanıtlar üzerinden)")
     print(f"   💾 Saved to        : {output_file}")
 
     return output_file
