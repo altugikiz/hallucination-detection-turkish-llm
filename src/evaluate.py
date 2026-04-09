@@ -2,7 +2,7 @@ import json
 import time
 import argparse
 import glob
-from models import MODELS
+from models import MODELS, GeminiDailyQuotaExceeded
 from prompts import zero_shot_prompt, few_shot_prompt
 from utils import load_benchmark, save_results, print_progress
 
@@ -78,6 +78,11 @@ def run_evaluation(model_name: str, prompt_type: str, limit: int = None, resume:
         try:
             response = query_fn(prompt)
             status   = "success"
+        except GeminiDailyQuotaExceeded as e:
+            print(f"\n🚫 {e}")
+            print(f"   {i-1} soru tamamlandı, dosya kaydediliyor...")
+            # Kalan soruları boş bırak, şimdiye kadar toplananları kaydet
+            break
         except Exception as e:
             err_str = str(e)
             if "429" in err_str or "RESOURCE_EXHAUSTED" in err_str or "rate" in err_str.lower():
