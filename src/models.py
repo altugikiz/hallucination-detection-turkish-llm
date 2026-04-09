@@ -15,15 +15,17 @@ load_dotenv()
 logger = logging.getLogger(__name__)
 
 
-def _is_rate_limit(exc: Exception) -> bool:
-    """ResourceExhausted (429) hatası mı kontrol eder."""
-    try:
-        from google.api_core.exceptions import ResourceExhausted
-        if isinstance(exc, ResourceExhausted):
-            return True
-    except ImportError:
-        pass
+class GeminiDailyQuotaExceeded(Exception):
+    """Günlük kota dolduğunda fırlatılır — retry yapılmaz."""
+    pass
+
+
+def _is_rpm_rate_limit(exc: Exception) -> bool:
+    """Sadece dakika başı (RPM) limitlerde True döner — retry edilebilir.
+    Günlük kota hatalarında False döner — retry edilmez."""
     msg = str(exc)
+    if "PerDay" in msg or "PerDayPer" in msg or "daily" in msg.lower():
+        return False
     return "429" in msg or "RESOURCE_EXHAUSTED" in msg or "ResourceExhausted" in msg
 
 # ── OpenAI ────────────────────────────────────────────────────────────────────
@@ -54,14 +56,15 @@ def query_groq(prompt: str) -> str:
 
 # ── Gemini ────────────────────────────────────────────────────────────────────
 @retry(
-    retry=retry_if_exception(_is_rate_limit),
+    retry=retry_if_exception(_is_rpm_rate_limit),
     wait=wait_exponential(multiplier=2, min=10, max=60),
     stop=stop_after_attempt(5),
     before_sleep=before_sleep_log(logger, logging.WARNING),
     reraise=True,
 )
 def _gemini_call(client, prompt: str) -> str:
-    """Rate-limit hatalarında exponential backoff ile tekrar dener."""
+    """RPM limitlerinde exponential backoff ile tekrar dener.
+    Günlük kota dolduğunda GeminiDailyQuotaExceeded fırlatır (retry olmaz)."""
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash-lite",
@@ -69,10 +72,15 @@ def _gemini_call(client, prompt: str) -> str:
         )
         return response.text.strip()
     except Exception as exc:
-        if _is_rate_limit(exc):
-            print(f"\n⏳ Gemini rate limit — tenacity yeniden deneyecek: {exc}")
-            raise  # tenacity'nin yakalaması için yeniden fırlat
-        raise  # diğer hatalar doğrudan ilet
+        msg = str(exc)
+        if "PerDay" in msg or "PerDayPer" in msg or "daily" in msg.lower():
+            raise GeminiDailyQuotaExceeded(
+                "Gemini günlük kota doldu — yarın tekrar deneyin."
+            ) from exc
+        if _is_rpm_rate_limit(exc):
+            print(f"\n⏳ Gemini RPM limit — tenacity yeniden deneyecek...")
+            raise
+        raise
 
 
 def query_gemini(prompt: str) -> str:
