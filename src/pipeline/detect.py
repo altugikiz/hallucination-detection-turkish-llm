@@ -2,9 +2,12 @@ import json
 import time
 import argparse
 import os
-from judge import llm_judge
-from wiki_check import wiki_fact_check
-from utils import print_progress
+import sys
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+
+from utils.judge import llm_judge
+from utils.wiki_check import wiki_fact_check
+from utils.utils import print_progress
 
 
 def detect_hallucinations(results_file: str, limit: int = None):

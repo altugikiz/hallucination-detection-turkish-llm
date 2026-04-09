@@ -2,9 +2,13 @@ import json
 import time
 import argparse
 import glob
-from models import MODELS, GeminiDailyQuotaExceeded
-from prompts import zero_shot_prompt, few_shot_prompt
-from utils import load_benchmark, save_results, print_progress
+import sys
+import os
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+
+from models.models import MODELS, GeminiDailyQuotaExceeded
+from models.prompts import zero_shot_prompt, few_shot_prompt
+from utils.utils import load_benchmark, save_results, print_progress
 
 PROMPT_TYPES = {
     "zero_shot": zero_shot_prompt,
