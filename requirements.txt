@@ -1,9 +1,10 @@
 openai
 groq
-google-generativeai
+google-genai
 mistralai
 wikipedia-api
-evaluate
+tenacity
+statsmodels
 pandas
 matplotlib
 seaborn
