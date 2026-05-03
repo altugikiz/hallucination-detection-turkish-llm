@@ -197,6 +197,42 @@ All questions have a `correct_answer` (ground truth) and a `source` URL (Turkish
 
 ---
 
+## Sample Input/Output
+
+Sample benchmark input from `data/pilot_benchmark.json`:
+
+```json
+{
+  "id": "tr_hist_001",
+  "category": "turkish_history",
+  "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+  "correct_answer": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+  "source": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti",
+  "difficulty": "easy"
+}
+```
+
+Sample detection output from `results/sample_results.json`:
+
+```json
+{
+  "id": "tr_hist_001",
+  "category": "turkish_history",
+  "difficulty": "easy",
+  "question": "Türkiye Cumhuriyeti hangi yıl kuruldu?",
+  "correct_answer": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+  "model_response": "Türkiye Cumhuriyeti 29 Ekim 1923 tarihinde kuruldu.",
+  "prompt_type": "few_shot",
+  "model": "gemini-2.5-flash-lite",
+  "judge_verdict": "CORRECT",
+  "wiki_verdict": "CORRECT",
+  "final_verdict": "CORRECT",
+  "is_hallucination": false
+}
+```
+
+---
+
 ## Output Files
 
 | File pattern | Contents |
